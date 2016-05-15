@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+
+    <title>Euroviisut 2016</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+    <style type="text/css">
+        body, html {
+            height: 100%;
+            margin: 0;
+        }
+
+        .container-fluid,
+        .container-fluid > .row,
+        .map-col {
+            height: 100%;
+        }
+
+        #map {
+            height: 100%;
+            width: 100%;
+        }
+        .leaflet-container {
+            background-color: #fff;
+        }
+
+        .points-0 { background-color: #013808 }
+        .points-1 { background-color: #1D561C }
+        .points-2 { background-color: #2E6627 }
+        .points-3 { background-color: #407535 }
+        .points-4 { background-color: #538543 }
+        .points-5 { background-color: #689453 }
+        .points-6 { background-color: #7FA465 }
+        .points-7 { background-color: #96B378 }
+        .points-8 { background-color: #B0C18C }
+        .points-9 { background-color: #CBD0A2 }
+        .points-10 { background-color: #E7DEBA }
+        .points-11 { background-color: #E7DEBA }
+
+        .televote-table .point-color {
+            display: none;
+        }
+    </style>
+
+</head>
+<body>
+    
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-6 map-col">
+                <div id="map"></div>
+            </div>
+            <div class="col-md-6">
+                <h2>Miten Euroviisujen finaalissa äänestettiin</h2>
+                <div id="points-data">
+                    Valitse maa kartalta.
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+    <div id="points-modal" class="modal fade">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-body">
+                    Jei
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script id="modal-template" type="text/template">
+        <h3>{{countryName}}</h3>
+
+        Näytä kartalla:<br>
+        <label><input class="point-type" type="radio" name="point-type" checked="checked" value="jury"> Tuomaristo</label>
+        <label><input class="point-type" type="radio" name="point-type" value="televote"> Puhelinäänestys</label>
+
+        <div class="row">
+            <div class="col-sm-6">
+                <h4>Tuomariston pisteet</h4>
+
+                <table class="table jury-table">
+                    {{#each juryPoints}}
+                        <tr>
+                            <td class="points-{{@index}} point-color"></td>
+                            <td>{{country}}</td>
+                            <td>{{points}}</td>
+                        </tr>
+                    {{/each}}
+                </table>
+            </div>
+            <div class="col-sm-6">
+                <h4>Puhelinäänestyksen pisteet</h4>
+
+                <table class="table televote-table">
+                    {{#each televotePoints}}
+                        <tr>
+                            <td class="points-{{@index}} point-color"></td>
+                            <td>{{country}}</td>
+                            <td>{{points}}</td>
+                        </tr>
+                    {{/each}}
+                </table>
+            </div>
+        </div>
+    </script>
+
+    <script src="https://code.jquery.com/jquery-2.2.3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.12.0/lodash.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
