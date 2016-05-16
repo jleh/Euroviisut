@@ -32,6 +32,8 @@ var countryData = {
     'Malta': 'mt'
 };
 
+map.attributionControl.setPrefix("");
+
 $.getJSON('points.json', function(data) {
     points = data;
 });
@@ -60,6 +62,8 @@ $.getJSON('europe.json', function(data) {
 
                 var pointList = ($('.point-type:checked').val() === 'televote') ? televotePoints : juryPoints;
 
+                setAusColor(pointList);
+
                 countryLayer.setStyle(function(layer) {
                     return pointStyle(layer, name, pointList);
                 });
@@ -78,6 +82,8 @@ $.getJSON('europe.json', function(data) {
                     countryLayer.setStyle(function(layer) {
                         return pointStyle(layer, name, pointList);
                     });
+
+                    setAusColor(pointList);
                 });
             });
         }
@@ -111,3 +117,13 @@ function pointStyle(layer, name, pointList) {
 Handlebars.registerHelper('countryCode', function(name) {
     return countryData[name];
 });
+
+function setAusColor(pointList) {
+    var aus = _.find(pointList, {country: 'Australia'});
+
+    if (aus) {
+        $('.australia-color').css('background-color', colors[12 - aus.points]);
+    } else {
+        $('.australia-color').css('background-color', '#fff');
+    }
+}

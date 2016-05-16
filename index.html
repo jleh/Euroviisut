@@ -44,6 +44,20 @@
         .televote-table .point-color {
             display: none;
         }
+        .points-col {
+            height: 100%;
+        }
+        .australia {
+            position: absolute;
+            bottom: 0;
+            font-weight: bold;
+        }
+        .australia-color {
+            height: 3em;
+            width: 3em;
+            border: 1px solid;
+            display: inline-block;
+        }
     </style>
 
 </head>
@@ -54,25 +68,20 @@
             <div class="col-md-6 map-col">
                 <div id="map"></div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 points-col">
                 <h2>Miten Euroviisujen finaalissa äänestettiin</h2>
                 <div id="points-data">
                     Valitse maa kartalta.
+                </div>
+
+                <div class="australia">
+                    <div class="australia-color"></div>
+                    Australia
                 </div>
             </div>
         </div>
     </div>
     
-
-    <div id="points-modal" class="modal fade">
-        <div class="modal-dialog modal-lg">
-            <div class="modal-content">
-                <div class="modal-body">
-                    Jei
-                </div>
-            </div>
-        </div>
-    </div>
 
     <script id="modal-template" type="text/template">
         <h3>{{countryName}}</h3>
