@@ -34,6 +34,8 @@ var countryData = {
 
 map.attributionControl.setPrefix("");
 
+$('.australia-color').click(showAusPoints);
+
 $.getJSON('points.json', function(data) {
     points = data;
 });
@@ -47,44 +49,9 @@ $.getJSON('europe.json', function(data) {
         },
         onEachFeature: function(feature, layer) {
             var name = feature.properties.admin;
-            var template = Handlebars.compile($('#modal-template').html());
 
             layer.on('click', function() {
-                var juryPoints = _.orderBy(points[name].juryPoints, 'points', 'desc');
-                var televotePoints = _.orderBy(points[name].televotePoints, 'points', 'desc');
-
-                $('#points-data').html(template({
-                    countryName: name,
-                    juryPoints: juryPoints,
-                    televotePoints: televotePoints,
-
-                }));
-
-                var pointList = ($('.point-type:checked').val() === 'televote') ? televotePoints : juryPoints;
-
-                setAusColor(pointList);
-
-                countryLayer.setStyle(function(layer) {
-                    return pointStyle(layer, name, pointList);
-                });
-
-                $('.point-type').change(function() {
-                    var pointList = ($('.point-type:checked').val() === 'televote') ? televotePoints : juryPoints;
-
-                    if ($('.point-type:checked').val() === 'televote') {
-                        $('.televote-table .point-color').show();
-                        $('.jury-table .point-color').hide();
-                    } else {
-                        $('.televote-table .point-color').hide();
-                        $('.jury-table .point-color').show();
-                    }
-
-                    countryLayer.setStyle(function(layer) {
-                        return pointStyle(layer, name, pointList);
-                    });
-
-                    setAusColor(pointList);
-                });
+                showPoints(name);
             });
         }
     }).addTo(map);
@@ -126,4 +93,47 @@ function setAusColor(pointList) {
     } else {
         $('.australia-color').css('background-color', '#fff');
     }
+}
+
+function showAusPoints() {
+    showPoints('Australia');
+}
+
+function showPoints(name) {
+    var template = Handlebars.compile($('#modal-template').html());
+    var juryPoints = _.orderBy(points[name].juryPoints, 'points', 'desc');
+    var televotePoints = _.orderBy(points[name].televotePoints, 'points', 'desc');
+
+    $('#points-data').html(template({
+        countryName: name,
+        juryPoints: juryPoints,
+        televotePoints: televotePoints,
+
+    }));
+
+    var pointList = ($('.point-type:checked').val() === 'televote') ? televotePoints : juryPoints;
+
+    setAusColor(pointList);
+
+    countryLayer.setStyle(function(layer) {
+        return pointStyle(layer, name, pointList);
+    });
+
+    $('.point-type').change(function() {
+        var pointList = ($('.point-type:checked').val() === 'televote') ? televotePoints : juryPoints;
+
+        if ($('.point-type:checked').val() === 'televote') {
+            $('.televote-table .point-color').show();
+            $('.jury-table .point-color').hide();
+        } else {
+            $('.televote-table .point-color').hide();
+            $('.jury-table .point-color').show();
+        }
+
+        countryLayer.setStyle(function(layer) {
+            return pointStyle(layer, name, pointList);
+        });
+
+        setAusColor(pointList);
+    });
 }
