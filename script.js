@@ -3,6 +3,35 @@ var points = {};
 var colors = ['#013808','#0D4711','#1D561C','#2E6627','#407535','#538543','#689453','#7FA465','#96B378','#B0C18C','#CBD0A2','#E7DEBA'];
 var countryLayer;
 
+var countryData = {
+    'Armenia': 'am',
+    'Austria': 'at',
+    'Australia': 'au',
+    'Azerbaijan': 'az',
+    'Belgium': 'be',
+    'Bulgaria': 'bg',
+    'Croatia': 'hr',
+    'Cyprus': 'cy',
+    'Czech Republic': 'cz',
+    'Germany': 'de',
+    'Spain': 'es',
+    'France': 'fr',
+    'United Kingdom': 'gb',
+    'Georgia': 'ge',
+    'Hungary': 'hu',
+    'Israel': 'il',
+    'Italy': 'it',
+    'Lithuania': 'lt',
+    'Latvia': 'lv',
+    'The Netherlands': 'nl',
+    'Poland': 'pl',
+    'Serbia': 'sr',
+    'Russia': 'ru',
+    'Sweden': 'se',
+    'Ukraine': 'ua',
+    'Malta': 'mt'
+};
+
 $.getJSON('points.json', function(data) {
     points = data;
 });
@@ -25,7 +54,8 @@ $.getJSON('europe.json', function(data) {
                 $('#points-data').html(template({
                     countryName: name,
                     juryPoints: juryPoints,
-                    televotePoints: televotePoints
+                    televotePoints: televotePoints,
+
                 }));
 
                 var pointList = ($('.point-type:checked').val() === 'televote') ? televotePoints : juryPoints;
@@ -77,3 +107,7 @@ function pointStyle(layer, name, pointList) {
         fillColor: '#03f'
     };
 }
+
+Handlebars.registerHelper('countryCode', function(name) {
+    return countryData[name];
+});

@@ -7,6 +7,7 @@
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
     <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+    <link rel="stylesheet" type="text/css" href="flag-icon.css">
     <style type="text/css">
         body, html {
             height: 100%;
@@ -88,6 +89,7 @@
                     {{#each juryPoints}}
                         <tr>
                             <td class="points-{{@index}} point-color"></td>
+                            <td><span class="flag-icon flag-icon-{{countryCode country}}"></span></td>
                             <td>{{country}}</td>
                             <td>{{points}}</td>
                         </tr>
@@ -101,6 +103,7 @@
                     {{#each televotePoints}}
                         <tr>
                             <td class="points-{{@index}} point-color"></td>
+                            <td><span class="flag-icon flag-icon-{{countryCode country}}"></span></td>
                             <td>{{country}}</td>
                             <td>{{points}}</td>
                         </tr>
