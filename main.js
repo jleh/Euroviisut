@@ -1,12 +1,13 @@
 import * as Handlebars from 'handlebars';
 import * as L from 'leaflet';
 import $ from 'jquery';
-import {find, orderBy} from 'lodash';
+import { find, orderBy } from 'lodash';
 
-const colors = ['#013808','#0D4711','#1D561C','#2E6627','#407535','#538543','#689453','#7FA465','#96B378','#B0C18C','#CBD0A2','#E7DEBA'];
+const colors = ['#013808', '#0D4711', '#1D561C', '#2E6627', '#407535', '#538543',
+                '#689453', '#7FA465', '#96B378', '#B0C18C', '#CBD0A2', '#E7DEBA'];
 
 const countryData = {
-    'Armenia': 'am',
+    Armenia: 'am',
     'Austria': 'at',
     'Australia': 'au',
     'Azerbaijan': 'az',
@@ -39,9 +40,7 @@ const map = L.map('map').setView([51.505, 12], 3);
 let countryLayer;
 let points = {};
 
-Handlebars.registerHelper('countryCode', function(name) {
-    return countryData[name];
-});
+Handlebars.registerHelper('countryCode', (name) => countryData[name]);
 
 map.attributionControl.setPrefix('');
 $('.australia-color').click(showAusPoints);
@@ -50,11 +49,10 @@ $.getJSON('points.json', function(data) {
     points = data;
 });
 
-$.getJSON('points.json', setCountryData);
-
+$.getJSON('europe.json', setCountryData);
 
 function setCountryData(res) {
-    const data = res.data;
+    const data = res;
 
     countryLayer = L.geoJson(data, {
         style: {
@@ -62,7 +60,7 @@ function setCountryData(res) {
             opacity: 0.8,
             fillOpacity: 0.1
         },
-        onEachFeature: function(feature, layer) {
+        onEachFeature(feature, layer) {
             const name = feature.properties.admin;
 
             layer.on('click', () => showPoints(name));
@@ -72,7 +70,7 @@ function setCountryData(res) {
 
 function pointStyle(layer, name, pointList) {
     // Selected country
-    if (layer.properties.admin == name) {
+    if (layer.properties.admin === name) {
         return {
             fillOpacity: 0.6
         };
@@ -95,7 +93,7 @@ function pointStyle(layer, name, pointList) {
 }
 
 function setAusColor(pointList) {
-    const aus = find(pointList, {country: 'Australia'});
+    const aus = find(pointList, { country: 'Australia' });
 
     if (aus) {
         $('.australia-color').css('background-color', colors[12 - aus.points]);
@@ -108,28 +106,21 @@ function showAusPoints() {
     showPoints('Australia');
 }
 
-function showPoints(name) {
+function showPoints(countryName) {
     const template = Handlebars.compile($('#modal-template').html());
-    const juryPoints = orderBy(points[name].juryPoints, 'points', 'desc');
-    const televotePoints = orderBy(points[name].televotePoints, 'points', 'desc');
+    const juryPoints = orderBy(points[countryName].juryPoints, 'points', 'desc');
+    const televotePoints = orderBy(points[countryName].televotePoints, 'points', 'desc');
 
-    $('#points-data').html(template({
-        countryName: name,
-        juryPoints: juryPoints,
-        televotePoints: televotePoints,
-
-    }));
+    $('#points-data').html(template({ countryName, juryPoints, televotePoints }));
 
     const pointList = ($('.point-type:checked').val() === 'televote') ? televotePoints : juryPoints;
 
     setAusColor(pointList);
 
-    countryLayer.setStyle(function(layer) {
-        return pointStyle(layer, name, pointList);
-    });
+    countryLayer.setStyle((layer) => pointStyle(layer, countryName, pointList));
 
-    $('.point-type').change(function() {
-        const pointList = ($('.point-type:checked').val() === 'televote') ? televotePoints : juryPoints;
+    $('.point-type').change(() => {
+        const list = ($('.point-type:checked').val() === 'televote') ? televotePoints : juryPoints;
 
         if ($('.point-type:checked').val() === 'televote') {
             $('.televote-table .point-color').show();
@@ -139,10 +130,8 @@ function showPoints(name) {
             $('.jury-table .point-color').show();
         }
 
-        countryLayer.setStyle(function(layer) {
-            return pointStyle(layer, name, pointList);
-        });
+        countryLayer.setStyle((layer) => pointStyle(layer, countryName, list));
 
-        setAusColor(pointList);
+        setAusColor(list);
     });
 }
