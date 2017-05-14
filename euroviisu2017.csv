@@ -1,0 +1,1093 @@
+From country;To country;Jury A;Jury B;Jury C;Jury D;Jury E;Jury Rank;Televote Rank;Jury Points;Televote Points
+Albania;Armenia;2;6;4;5;5;4;7;24;-
+Albania;Australia;9;8;11;4;8;7;4;13;-
+Albania;Austria;25;20;23;26;23;24;-;22;-
+Albania;Azerbaijan;17;12;9;9;10;9;2;12;-
+Albania;Belarus;20;21;15;25;16;20;-;17;-
+Albania;Belgium;11;5;10;24;14;13;-;6;5
+Albania;Bulgaria;3;4;3;3;3;2;10;2;10
+Albania;Croatia;21;14;13;21;22;19;-;4;7
+Albania;Cyprus;6;22;14;11;19;15;-;16;-
+Albania;Denmark;14;11;19;13;13;14;-;23;-
+Albania;France;1;7;8;7;6;6;5;10;1
+Albania;Germany;18;23;25;22;24;23;-;21;-
+Albania;Greece;7;16;7;19;9;10;1;8;3
+Albania;Hungary;26;18;21;16;20;21;-;5;6
+Albania;Israel;15;19;17;14;11;16;-;15;-
+Albania;Italy;4;1;1;1;1;1;12;1;12
+Albania;Moldova;12;10;12;12;15;12;-;11;-
+Albania;Norway;22;24;22;17;25;22;-;19;-
+Albania;Poland;19;17;18;15;12;17;-;25;-
+Albania;Portugal;10;2;5;6;2;5;6;3;8
+Albania;Romania;16;13;6;8;7;8;3;7;4
+Albania;Spain;23;26;24;20;26;26;-;26;-
+Albania;Sweden;8;9;16;10;17;11;-;9;2
+Albania;The Netherlands;13;15;20;18;18;18;-;18;-
+Albania;Ukraine;24;25;26;23;21;25;-;20;-
+Albania;United Kingdom;5;3;2;2;4;3;8;14;-
+Armenia;-;-;-;-;-;-;-;-;-;
+Armenia;Australia;21;22;10;21;11;19;-;21;-
+Armenia;Austria;16;7;11;13;14;10;1;19;-
+Armenia;Azerbaijan;25;25;25;25;25;25;-;25;-
+Armenia;Belarus;19;11;24;24;15;22;-;15;-
+Armenia;Belgium;22;16;16;16;17;21;-;6;5
+Armenia;Bulgaria;18;19;8;14;9;13;-;4;7
+Armenia;Croatia;14;8;12;7;22;11;-;16;-
+Armenia;Cyprus;5;4;13;4;4;4;7;1;12
+Armenia;Denmark;12;10;19;11;24;16;-;18;-
+Armenia;France;7;17;5;5;12;8;3;3;8
+Armenia;Germany;17;13;15;19;19;17;-;12;-
+Armenia;Greece;3;2;2;3;3;2;10;10;1
+Armenia;Hungary;23;23;20;20;23;23;-;11;-
+Armenia;Israel;24;24;21;23;18;24;-;17;-
+Armenia;Italy;10;9;4;22;7;9;2;7;4
+Armenia;Moldova;4;3;3;2;2;3;8;5;6
+Armenia;Norway;6;6;9;10;10;6;5;22;-
+Armenia;Poland;11;12;14;9;21;12;-;24;-
+Armenia;Portugal;1;1;1;1;1;1;12;2;10
+Armenia;Romania;13;18;23;12;20;20;-;9;2
+Armenia;Spain;20;20;18;18;8;18;-;20;-
+Armenia;Sweden;8;5;6;15;5;5;6;8;3
+Armenia;The Netherlands;2;21;22;17;13;15;-;13;-
+Armenia;Ukraine;15;15;17;6;16;14;-;23;-
+Armenia;United Kingdom;9;14;7;8;6;7;4;14;-
+Australia;Armenia;19;8;10;10;11;10;1;15;-
+Australia;Australia;-;-;-;-;-;-;-;-;-
+Australia;Austria;20;5;12;3;8;8;3;19;-
+Australia;Azerbaijan;8;14;14;18;4;11;-;21;-
+Australia;Belarus;17;15;16;16;13;16;-;14;-
+Australia;Belgium;7;19;7;14;18;14;-;7;4
+Australia;Bulgaria;5;7;4;8;1;3;8;6;5
+Australia;Croatia;24;16;24;24;19;24;-;10;1
+Australia;Cyprus;22;21;15;21;24;23;-;20;-
+Australia;Denmark;6;10;8;1;10;6;5;3;8
+Australia;France;16;17;22;17;15;18;-;18;-
+Australia;Germany;12;18;17;20;12;17;-;23;-
+Australia;Greece;18;20;19;23;20;22;-;16;-
+Australia;Hungary;21;13;25;15;23;20;-;12;-
+Australia;Israel;10;24;18;19;22;19;-;17;-
+Australia;Italy;2;12;21;13;14;13;-;9;2
+Australia;Moldova;3;2;5;6;3;2;10;1;12
+Australia;Norway;11;22;9;12;21;15;-;13;-
+Australia;Poland;13;11;11;11;7;9;2;22;-
+Australia;Portugal;9;3;1;5;9;4;7;4;7
+Australia;Romania;14;4;20;7;17;12;-;2;10
+Australia;Spain;25;25;23;25;25;25;-;25;-
+Australia;Sweden;4;6;6;9;5;5;6;5;6
+Australia;The Netherlands;15;9;2;4;6;7;4;11;-
+Australia;Ukraine;23;23;13;22;16;21;-;24;-
+Australia;United Kingdom;1;1;3;2;2;1;12;8;3
+Austria;Armenia;19;25;12;12;13;19;-;21;-
+Austria;Australia;12;19;7;11;9;11;-;18;-
+Austria;Austria;-;-;-;-;-;-;-;-;-
+Austria;Azerbaijan;15;20;9;20;20;21;-;23;-
+Austria;Belarus;16;7;3;5;4;4;7;19;-
+Austria;Belgium;4;9;10;25;5;9;2;3;8
+Austria;Bulgaria;5;1;2;6;2;2;10;4;7
+Austria;Croatia;7;6;18;19;21;15;-;7;4
+Austria;Cyprus;22;15;20;18;22;22;-;15;-
+Austria;Denmark;24;21;22;13;23;23;-;24;-
+Austria;France;13;13;16;21;6;13;-;12;-
+Austria;Germany;11;10;17;22;14;17;-;14;-
+Austria;Greece;14;18;21;10;19;20;-;22;-
+Austria;Hungary;17;4;6;9;11;6;5;6;5
+Austria;Israel;21;24;24;23;25;25;-;17;-
+Austria;Italy;2;2;11;4;18;5;6;5;6
+Austria;Moldova;20;22;8;8;12;14;-;8;3
+Austria;Norway;18;16;4;7;7;8;3;13;-
+Austria;Poland;6;12;19;15;16;12;-;9;2
+Austria;Portugal;3;23;1;1;1;3;8;1;12
+Austria;Romania;8;5;25;17;17;16;-;2;10
+Austria;Spain;25;17;23;24;24;24;-;25;-
+Austria;Sweden;10;11;15;2;10;7;4;10;1
+Austria;The Netherlands;1;3;5;3;3;1;12;11;-
+Austria;Ukraine;23;14;13;14;15;18;-;20;-
+Austria;United Kingdom;9;8;14;16;8;10;1;16;-
+Azerbaijan;Armenia;25;25;25;25;25;25;-;25;-
+Azerbaijan;Australia;17;16;12;16;10;14;-;16;-
+Azerbaijan;Austria;15;9;18;20;13;17;-;22;-
+Azerbaijan;Azerbaijan;-;-;-;-;-;-;-;-;-
+Azerbaijan;Belarus;1;1;1;1;2;1;12;11;-
+Azerbaijan;Belgium;18;23;17;6;11;16;-;7;4
+Azerbaijan;Bulgaria;13;20;11;8;9;9;2;1;12
+Azerbaijan;Croatia;8;15;7;17;14;10;1;18;-
+Azerbaijan;Cyprus;24;19;24;13;24;24;-;14;-
+Azerbaijan;Denmark;23;14;22;5;18;20;-;20;-
+Azerbaijan;France;21;11;16;12;23;21;-;6;5
+Azerbaijan;Germany;16;22;14;11;17;19;-;23;-
+Azerbaijan;Greece;9;7;8;15;7;6;5;15;-
+Azerbaijan;Hungary;3;13;9;19;22;12;-;4;7
+Azerbaijan;Israel;7;6;10;24;6;7;4;10;1
+Azerbaijan;Italy;14;3;15;18;19;13;-;5;6
+Azerbaijan;Moldova;5;2;3;3;5;2;10;2;10
+Azerbaijan;Norway;19;17;23;22;20;23;-;13;-
+Azerbaijan;Poland;4;4;4;23;4;5;6;21;-
+Azerbaijan;Portugal;6;8;5;4;1;3;8;3;8
+Azerbaijan;Romania;12;21;6;10;8;8;3;9;2
+Azerbaijan;Spain;10;10;13;9;21;11;-;24;-
+Azerbaijan;Sweden;22;24;20;2;15;22;-;8;3
+Azerbaijan;The Netherlands;20;12;21;21;3;18;-;19;-
+Azerbaijan;Ukraine;2;5;2;7;16;4;7;12;-
+Azerbaijan;United Kingdom;11;18;19;14;12;15;-;17;-
+Belarus;Armenia;17;14;6;19;10;13;-;15;-
+Belarus;Australia;3;4;8;4;4;4;7;19;-
+Belarus;Austria;10;6;7;6;6;7;4;20;-
+Belarus;Azerbaijan;18;8;16;12;11;11;-;11;-
+Belarus;Belarus;-;-;-;-;-;-;-;-;-
+Belarus;Belgium;16;9;15;15;18;15;-;5;6
+Belarus;Bulgaria;1;2;1;3;3;1;12;1;12
+Belarus;Croatia;22;18;18;20;21;21;-;14;-
+Belarus;Cyprus;20;12;10;13;16;14;-;13;-
+Belarus;Denmark;7;10;9;9;8;8;3;21;-
+Belarus;France;8;17;17;21;20;17;-;7;4
+Belarus;Germany;21;20;23;23;24;22;-;25;-
+Belarus;Greece;23;25;19;24;22;24;-;23;-
+Belarus;Hungary;15;23;13;18;19;19;-;3;8
+Belarus;Israel;11;13;11;14;15;10;1;16;-
+Belarus;Italy;13;16;24;11;12;16;-;12;-
+Belarus;Moldova;14;15;12;10;14;12;-;2;10
+Belarus;Norway;5;5;3;5;5;5;6;6;5
+Belarus;Poland;9;11;25;8;9;9;2;17;-
+Belarus;Portugal;2;1;5;2;1;2;10;4;7
+Belarus;Romania;12;24;22;16;17;20;-;9;2
+Belarus;Spain;24;19;20;25;25;25;-;24;-
+Belarus;Sweden;6;3;2;1;2;3;8;8;3
+Belarus;The Netherlands;4;7;4;7;7;6;5;22;-
+Belarus;Ukraine;19;22;14;17;13;18;-;10;1
+Belarus;United Kingdom;25;21;21;22;23;23;-;18;-
+Belgium;Armenia;14;14;17;17;15;15;-;12;-
+Belgium;Australia;6;4;11;9;3;5;6;17;-
+Belgium;Austria;5;9;14;11;4;8;3;15;-
+Belgium;Azerbaijan;3;8;8;8;8;7;4;21;-
+Belgium;Belarus;10;18;9;10;14;12;-;20;-
+Belgium;Belgium;-;-;-;-;-;-;-;-;-
+Belgium;Bulgaria;4;2;6;6;1;2;10;3;8
+Belgium;Croatia;24;25;23;25;20;25;-;11;-
+Belgium;Cyprus;8;6;5;3;13;6;5;14;-
+Belgium;Denmark;15;20;12;16;22;18;-;25;-
+Belgium;France;19;10;4;12;7;10;1;8;3
+Belgium;Germany;16;16;13;14;24;16;-;22;-
+Belgium;Greece;20;22;16;15;23;20;-;13;-
+Belgium;Hungary;23;13;24;24;19;22;-;10;1
+Belgium;Israel;25;23;25;18;21;24;-;19;-
+Belgium;Italy;12;7;2;23;12;11;-;6;5
+Belgium;Moldova;22;15;18;2;11;13;-;4;7
+Belgium;Norway;2;5;10;5;5;4;7;18;-
+Belgium;Poland;18;11;15;13;16;14;-;7;4
+Belgium;Portugal;7;3;3;4;6;3;8;1;12
+Belgium;Romania;21;24;20;20;18;23;-;5;6
+Belgium;Spain;13;17;22;22;10;17;-;24;-
+Belgium;Sweden;1;1;1;1;2;1;12;9;2
+Belgium;The Netherlands;9;21;21;19;17;19;-;2;10
+Belgium;Ukraine;17;19;19;21;25;21;-;23;-
+Belgium;United Kingdom;11;12;7;7;9;9;2;16;-
+Bulgaria;Armenia;6;14;7;3;21;7;4;12;-
+Bulgaria;Australia;13;17;8;11;18;12;-;18;-
+Bulgaria;Austria;5;11;4;5;5;1;12;24;-
+Bulgaria;Azerbaijan;9;3;20;14;2;6;5;20;-
+Bulgaria;Belarus;2;22;12;10;11;9;2;14;-
+Bulgaria;Belgium;19;6;18;12;20;17;-;7;4
+Bulgaria;Bulgaria;-;-;-;-;-;-;-;-;-
+Bulgaria;Croatia;8;19;6;16;23;16;-;10;1
+Bulgaria;Cyprus;16;1;22;18;25;21;-;8;3
+Bulgaria;Denmark;4;12;21;20;22;19;-;22;-
+Bulgaria;France;17;20;9;25;8;18;-;1;12
+Bulgaria;Germany;25;8;23;24;15;25;-;25;-
+Bulgaria;Greece;11;25;2;1;1;5;6;6;5
+Bulgaria;Hungary;23;4;25;8;9;14;-;5;6
+Bulgaria;Israel;7;10;5;9;4;3;8;11;-
+Bulgaria;Italy;14;9;15;15;16;13;-;13;-
+Bulgaria;Moldova;24;23;10;13;12;20;-;2;10
+Bulgaria;Norway;21;18;11;21;24;24;-;15;-
+Bulgaria;Poland;3;24;3;4;3;4;7;23;-
+Bulgaria;Portugal;15;15;17;23;17;23;-;4;7
+Bulgaria;Romania;22;2;24;2;6;8;3;3;8
+Bulgaria;Spain;20;7;14;17;13;15;-;21;-
+Bulgaria;Sweden;12;13;13;19;7;11;-;9;2
+Bulgaria;The Netherlands;1;16;1;7;10;2;10;17;-
+Bulgaria;Ukraine;18;5;16;6;19;10;1;16;-
+Bulgaria;United Kingdom;10;21;19;22;14;22;-;19;-
+Croatia;Armenia;6;23;15;25;15;16;-;23;-
+Croatia;Australia;7;4;8;7;4;5;6;12;-
+Croatia;Austria;9;14;10;8;10;10;1;15;-
+Croatia;Azerbaijan;17;22;17;17;18;20;-;14;-
+Croatia;Belarus;2;8;11;9;7;6;5;11;-
+Croatia;Belgium;25;21;22;23;23;25;-;6;5
+Croatia;Bulgaria;4;3;3;3;2;2;10;3;8
+Croatia;Croatia;-;-;-;-;-;-;-;-;-
+Croatia;Cyprus;16;18;19;21;24;21;-;17;-
+Croatia;Denmark;10;2;12;4;13;8;3;20;-
+Croatia;France;12;19;16;22;21;19;-;8;3
+Croatia;Germany;21;20;20;11;14;17;-;18;-
+Croatia;Greece;23;16;21;20;19;22;-;24;-
+Croatia;Hungary;1;9;1;1;1;1;12;1;12
+Croatia;Israel;18;13;18;24;16;18;-;19;-
+Croatia;Italy;19;24;9;13;12;15;-;4;7
+Croatia;Moldova;13;11;13;19;11;12;-;7;4
+Croatia;Norway;14;12;7;5;9;9;2;13;-
+Croatia;Poland;22;7;14;12;17;13;-;22;-
+Croatia;Portugal;5;5;4;6;3;4;7;2;10
+Croatia;Romania;8;6;25;15;20;14;-;5;6
+Croatia;Spain;24;15;24;18;25;24;-;25;-
+Croatia;Sweden;11;10;2;10;6;7;4;9;2
+Croatia;The Netherlands;3;1;6;2;5;3;8;10;1
+Croatia;Ukraine;20;25;23;16;22;23;-;21;-
+Croatia;United Kingdom;15;17;5;14;8;11;-;16;-
+Cyprus;Armenia;15;13;7;20;10;12;-;10;1
+Cyprus;Australia;11;7;4;11;14;7;4;13;-
+Cyprus;Austria;9;15;8;18;20;15;-;19;-
+Cyprus;Azerbaijan;10;8;10;13;17;10;1;11;-
+Cyprus;Belarus;16;24;17;17;25;21;-;22;-
+Cyprus;Belgium;13;17;11;8;1;8;3;9;2
+Cyprus;Bulgaria;5;2;12;5;6;4;7;2;10
+Cyprus;Croatia;24;25;25;21;18;25;-;14;-
+Cyprus;Cyprus;-;-;-;-;-;-;-;-;-
+Cyprus;Denmark;7;16;13;12;21;14;-;24;-
+Cyprus;France;8;11;15;16;5;9;2;8;3
+Cyprus;Germany;17;19;19;22;24;22;-;25;-
+Cyprus;Greece;2;1;6;1;2;1;12;1;12
+Cyprus;Hungary;12;4;9;24;16;13;-;12;-
+Cyprus;Israel;14;6;16;14;13;11;-;15;-
+Cyprus;Italy;1;5;3;2;4;2;10;3;8
+Cyprus;Moldova;25;14;18;6;11;16;-;5;6
+Cyprus;Norway;20;21;23;23;23;24;-;21;-
+Cyprus;Poland;21;10;14;19;19;19;-;17;-
+Cyprus;Portugal;3;9;1;9;3;3;8;4;7
+Cyprus;Romania;23;22;20;15;9;20;-;7;4
+Cyprus;Spain;19;20;21;10;12;18;-;23;-
+Cyprus;Sweden;6;3;5;3;15;5;6;6;5
+Cyprus;The Netherlands;18;23;24;4;7;17;-;18;-
+Cyprus;Ukraine;22;18;22;25;22;23;-;20;-
+Cyprus;United Kingdom;4;12;2;7;8;6;5;16;-
+Czech Republic;Armenia;18;22;12;22;26;21;-;9;2
+Czech Republic;Australia;3;2;2;2;3;2;10;21;-
+Czech Republic;Austria;8;6;13;6;10;7;4;24;-
+Czech Republic;Azerbaijan;15;14;8;14;18;13;-;2;10
+Czech Republic;Belarus;20;8;11;8;20;12;-;8;3
+Czech Republic;Belgium;9;11;15;11;13;11;-;7;4
+Czech Republic;Bulgaria;7;9;14;9;7;9;2;1;12
+Czech Republic;Croatia;26;23;10;23;24;24;-;17;-
+Czech Republic;Cyprus;10;20;23;20;17;18;-;16;-
+Czech Republic;Denmark;5;5;4;5;23;5;6;25;-
+Czech Republic;France;19;19;20;19;16;19;-;15;-
+Czech Republic;Germany;13;16;16;16;15;16;-;22;-
+Czech Republic;Greece;16;21;24;21;19;22;-;23;-
+Czech Republic;Hungary;24;24;17;24;22;25;-;11;-
+Czech Republic;Israel;11;13;26;13;8;14;-;13;-
+Czech Republic;Italy;17;17;18;17;5;15;-;10;1
+Czech Republic;Moldova;6;7;5;7;21;8;3;6;5
+Czech Republic;Norway;22;15;25;15;12;17;-;20;-
+Czech Republic;Poland;12;12;6;12;9;10;1;12;-
+Czech Republic;Portugal;1;1;3;1;1;1;12;3;8
+Czech Republic;Romania;21;26;21;26;25;26;-;5;6
+Czech Republic;Spain;23;25;19;25;11;23;-;26;-
+Czech Republic;Sweden;4;4;9;4;4;4;7;14;-
+Czech Republic;The Netherlands;2;3;1;3;6;3;8;19;-
+Czech Republic;Ukraine;25;18;22;18;14;20;-;4;7
+Czech Republic;United Kingdom;14;10;7;10;2;6;5;18;-
+Denmark;Armenia;18;7;19;11;4;10;1;25;-
+Denmark;Australia;9;3;2;12;6;3;8;9;2
+Denmark;Austria;12;6;8;4;3;4;7;12;-
+Denmark;Azerbaijan;19;20;18;15;17;19;-;21;-
+Denmark;Belarus;13;16;21;3;15;15;-;19;-
+Denmark;Belgium;2;8;10;14;19;9;2;5;6
+Denmark;Bulgaria;16;2;3;5;12;7;4;2;10
+Denmark;Croatia;24;10;15;25;20;21;-;11;-
+Denmark;Cyprus;14;17;7;16;13;14;-;14;-
+Denmark;Denmark;-;-;-;-;-;-;-;-;-
+Denmark;France;5;18;16;19;16;18;-;16;-
+Denmark;Germany;10;22;17;21;22;20;-;18;-
+Denmark;Greece;21;21;22;13;18;22;-;23;-
+Denmark;Hungary;11;11;20;8;14;13;-;8;3
+Denmark;Israel;15;19;6;18;2;12;-;17;-
+Denmark;Italy;3;14;14;6;23;11;-;15;-
+Denmark;Moldova;7;15;12;9;8;8;3;3;8
+Denmark;Norway;4;13;5;1;11;5;6;4;7
+Denmark;Poland;22;12;13;17;9;17;-;20;-
+Denmark;Portugal;1;1;4;7;7;2;10;6;5
+Denmark;Romania;25;23;24;22;25;25;-;7;4
+Denmark;Spain;20;25;25;24;21;24;-;22;-
+Denmark;Sweden;8;5;1;2;1;1;12;1;12
+Denmark;The Netherlands;6;4;9;10;5;6;5;10;1
+Denmark;Ukraine;23;24;23;20;24;23;-;24;-
+Denmark;United Kingdom;17;9;11;23;10;16;-;13;-
+Estonia;Armenia;22;9;16;12;18;13;-;24;-
+Estonia;Australia;4;5;9;5;5;4;7;12;-
+Estonia;Austria;11;13;3;11;20;11;-;17;-
+Estonia;Azerbaijan;6;22;25;15;11;15;-;16;-
+Estonia;Belarus;26;15;18;19;21;21;-;9;2
+Estonia;Belgium;2;16;7;8;6;9;2;1;12
+Estonia;Bulgaria;1;1;6;1;1;1;12;4;7
+Estonia;Croatia;19;17;23;25;22;25;-;13;-
+Estonia;Cyprus;23;12;21;13;24;16;-;14;-
+Estonia;Denmark;9;3;10;3;4;6;5;20;-
+Estonia;France;13;18;15;16;16;14;-;10;1
+Estonia;Germany;15;20;26;17;25;24;-;26;-
+Estonia;Greece;16;21;22;18;19;19;-;23;-
+Estonia;Hungary;20;8;11;6;9;10;1;3;8
+Estonia;Israel;25;19;14;20;15;17;-;19;-
+Estonia;Italy;14;26;24;24;13;23;-;6;5
+Estonia;Moldova;21;23;19;21;17;22;-;7;4
+Estonia;Norway;7;2;2;2;10;2;10;11;-
+Estonia;Poland;12;11;17;14;8;12;-;22;-
+Estonia;Portugal;3;7;5;10;2;3;8;2;10
+Estonia;Romania;24;25;12;23;14;20;-;5;6
+Estonia;Spain;17;24;13;26;26;26;-;25;-
+Estonia;Sweden;8;14;8;4;3;8;3;8;3
+Estonia;The Netherlands;10;4;4;7;12;7;4;15;-
+Estonia;Ukraine;18;10;20;22;23;18;-;21;-
+Estonia;United Kingdom;5;6;1;9;7;5;6;18;-
+F.Y.R. Macedonia;Armenia;20;18;12;13;12;14;-;22;-
+F.Y.R. Macedonia;Australia;3;1;5;3;5;3;8;20;-
+F.Y.R. Macedonia;Austria;11;8;7;11;19;11;-;23;-
+F.Y.R. Macedonia;Azerbaijan;16;15;11;24;20;17;-;21;-
+F.Y.R. Macedonia;Belarus;21;19;17;16;17;18;-;24;-
+F.Y.R. Macedonia;Belgium;13;16;6;17;16;13;-;7;4
+F.Y.R. Macedonia;Bulgaria;1;2;3;2;2;1;12;1;12
+F.Y.R. Macedonia;Croatia;24;26;24;23;23;25;-;2;10
+F.Y.R. Macedonia;Cyprus;25;23;26;25;15;24;-;13;-
+F.Y.R. Macedonia;Denmark;4;3;10;1;1;4;7;14;-
+F.Y.R. Macedonia;France;5;5;9;8;3;6;5;5;6
+F.Y.R. Macedonia;Germany;18;22;22;15;18;20;-;16;-
+F.Y.R. Macedonia;Greece;26;25;25;21;25;26;-;12;-
+F.Y.R. Macedonia;Hungary;23;11;23;22;26;23;-;8;3
+F.Y.R. Macedonia;Israel;14;17;20;12;14;15;-;10;1
+F.Y.R. Macedonia;Italy;15;20;19;20;24;21;-;3;8
+F.Y.R. Macedonia;Moldova;7;10;1;5;7;5;6;9;2
+F.Y.R. Macedonia;Norway;10;13;4;10;10;9;2;19;-
+F.Y.R. Macedonia;Poland;22;14;18;14;11;16;-;26;-
+F.Y.R. Macedonia;Portugal;2;4;2;4;4;2;10;4;7
+F.Y.R. Macedonia;Romania;8;6;8;9;6;7;4;11;-
+F.Y.R. Macedonia;Spain;12;24;21;26;21;22;-;25;-
+F.Y.R. Macedonia;Sweden;6;9;13;19;8;10;1;6;5
+F.Y.R. Macedonia;The Netherlands;19;12;15;6;13;12;-;17;-
+F.Y.R. Macedonia;Ukraine;17;21;16;18;22;19;-;18;-
+F.Y.R. Macedonia;United Kingdom;9;7;14;7;9;8;3;15;-
+Finland;Armenia;11;22;14;14;8;13;-;20;-
+Finland;Australia;3;1;3;5;4;2;10;15;-
+Finland;Austria;19;5;22;20;18;17;-;24;-
+Finland;Azerbaijan;25;11;18;15;14;16;-;18;-
+Finland;Belarus;17;6;23;23;19;21;-;17;-
+Finland;Belgium;6;20;6;17;24;14;-;2;10
+Finland;Bulgaria;4;4;4;18;5;5;6;4;7
+Finland;Croatia;26;18;26;6;11;20;-;11;-
+Finland;Cyprus;15;15;7;8;2;6;5;12;-
+Finland;Denmark;13;8;12;10;10;7;4;21;-
+Finland;France;10;25;21;21;21;23;-;10;1
+Finland;Germany;7;16;20;16;20;15;-;25;-
+Finland;Greece;22;26;19;24;22;26;-;23;-
+Finland;Hungary;14;23;15;9;25;19;-;7;4
+Finland;Israel;18;10;5;12;15;11;-;14;-
+Finland;Italy;2;12;1;1;17;4;7;3;8
+Finland;Moldova;23;7;13;4;7;8;3;6;5
+Finland;Norway;9;19;9;11;6;10;1;9;2
+Finland;Poland;21;24;11;19;23;22;-;22;-
+Finland;Portugal;1;3;10;2;3;3;8;1;12
+Finland;Romania;12;17;24;25;26;24;-;8;3
+Finland;Spain;24;14;16;22;9;18;-;26;-
+Finland;Sweden;5;2;2;3;1;1;12;5;6
+Finland;The Netherlands;16;9;17;7;16;12;-;16;-
+Finland;Ukraine;20;21;25;26;13;25;-;19;-
+Finland;United Kingdom;8;13;8;13;12;9;2;13;-
+France;Armenia;9;6;22;19;6;13;-;5;6
+France;Australia;17;9;12;8;8;9;2;20;-
+France;Austria;13;14;13;9;5;10;1;24;-
+France;Azerbaijan;25;21;19;6;22;22;-;17;-
+France;Belarus;14;22;25;10;14;19;-;16;-
+France;Belgium;10;8;8;21;9;11;-;3;8
+France;Bulgaria;7;1;7;11;18;6;5;7;4
+France;Croatia;18;23;23;17;21;24;-;12;-
+France;Cyprus;16;15;17;18;4;15;-;13;-
+France;Denmark;21;19;6;4;11;12;-;25;-
+France;France;-;-;-;-;-;-;-;-;-
+France;Germany;3;4;18;24;24;16;-;21;-
+France;Greece;15;18;16;22;23;23;-;15;-
+France;Hungary;12;20;10;16;12;14;-;9;2
+France;Israel;2;13;5;7;15;5;6;8;3
+France;Italy;6;5;3;3;7;2;10;6;5
+France;Moldova;20;24;20;12;10;20;-;4;7
+France;Norway;4;3;14;15;3;4;7;23;-
+France;Poland;22;10;21;20;19;21;-;10;1
+France;Portugal;1;7;1;5;2;1;12;1;12
+France;Romania;23;16;9;13;17;17;-;2;10
+France;Spain;19;17;15;14;13;18;-;19;-
+France;Sweden;5;12;11;2;1;3;8;11;-
+France;The Netherlands;11;11;2;1;20;7;4;14;-
+France;Ukraine;24;25;24;25;25;25;-;18;-
+France;United Kingdom;8;2;4;23;16;8;3;22;-
+Georgia;Armenia;8;13;13;11;13;8;3;2;10
+Georgia;Australia;15;18;17;17;3;15;-;26;-
+Georgia;Austria;10;7;12;8;9;6;5;22;-
+Georgia;Azerbaijan;2;2;2;3;6;2;10;1;12
+Georgia;Belarus;20;25;24;25;8;23;-;5;6
+Georgia;Belgium;26;14;14;23;25;24;-;13;-
+Georgia;Bulgaria;9;12;4;12;4;5;6;4;7
+Georgia;Croatia;12;8;16;13;20;14;-;17;-
+Georgia;Cyprus;5;6;19;7;14;7;4;9;2
+Georgia;Denmark;14;10;8;14;19;12;-;25;-
+Georgia;France;18;19;7;10;7;11;-;8;3
+Georgia;Germany;22;5;5;21;12;13;-;14;-
+Georgia;Greece;17;11;25;18;23;21;-;15;-
+Georgia;Hungary;13;16;20;5;26;17;-;23;-
+Georgia;Israel;23;26;23;16;17;25;-;11;-
+Georgia;Italy;3;17;11;4;24;9;2;6;5
+Georgia;Moldova;7;23;18;19;10;16;-;12;-
+Georgia;Norway;16;1;6;6;2;4;7;21;-
+Georgia;Poland;6;22;22;9;22;18;-;20;-
+Georgia;Portugal;1;3;1;1;1;1;12;3;8
+Georgia;Romania;21;21;15;24;11;20;-;18;-
+Georgia;Spain;19;24;26;26;21;26;-;24;-
+Georgia;Sweden;4;4;3;2;5;3;8;10;1
+Georgia;The Netherlands;11;9;10;15;16;10;1;19;-
+Georgia;Ukraine;25;15;21;22;15;22;-;7;4
+Georgia;United Kingdom;24;20;9;20;18;19;-;16;-
+Germany;Armenia;21;21;20;18;20;20;-;19;-
+Germany;Australia;5;8;11;3;9;6;5;15;-
+Germany;Austria;10;6;12;6;12;9;2;14;-
+Germany;Azerbaijan;14;24;21;22;25;23;-;23;-
+Germany;Belarus;20;20;19;20;13;18;-;18;-
+Germany;Belgium;7;15;10;15;15;12;-;2;10
+Germany;Bulgaria;8;2;5;2;2;3;8;6;5
+Germany;Croatia;4;12;16;8;5;8;3;3;8
+Germany;Cyprus;17;14;24;17;18;17;-;17;-
+Germany;Denmark;13;13;9;10;10;11;-;25;-
+Germany;France;25;16;15;13;19;16;-;13;-
+Germany;Germany;-;-;-;-;-;-;-;-;-
+Germany;Greece;23;18;23;24;14;22;-;11;-
+Germany;Hungary;11;9;8;9;11;10;1;8;3
+Germany;Israel;18;22;22;25;21;25;-;16;-
+Germany;Italy;2;19;3;16;23;13;-;7;4
+Germany;Moldova;12;23;17;21;22;19;-;4;7
+Germany;Norway;3;3;1;1;1;1;12;20;-
+Germany;Poland;19;7;13;14;17;15;-;9;2
+Germany;Portugal;1;1;2;5;3;2;10;1;12
+Germany;Romania;24;25;14;23;16;21;-;5;6
+Germany;Spain;22;17;25;19;24;24;-;24;-
+Germany;Sweden;9;10;6;11;7;7;4;12;-
+Germany;The Netherlands;6;4;7;7;4;4;7;10;1
+Germany;Ukraine;15;11;18;12;8;14;-;21;-
+Germany;United Kingdom;16;5;4;4;6;5;6;22;-
+Greece;Armenia;9;7;9;2;3;3;8;9;2
+Greece;Australia;19;10;19;6;12;15;-;15;-
+Greece;Austria;16;16;15;10;9;14;-;20;-
+Greece;Azerbaijan;3;4;4;3;5;2;10;17;-
+Greece;Belarus;12;11;8;11;7;8;3;25;-
+Greece;Belgium;13;12;11;13;4;12;-;6;5
+Greece;Bulgaria;5;5;7;23;11;9;2;2;10
+Greece;Croatia;21;13;12;12;25;17;-;13;-
+Greece;Cyprus;1;6;1;8;2;1;12;1;12
+Greece;Denmark;22;19;23;7;13;18;-;19;-
+Greece;France;2;23;16;1;18;13;-;7;4
+Greece;Germany;24;24;25;22;24;25;-;23;-
+Greece;Greece;-;-;-;-;-;-;-;-;-
+Greece;Hungary;23;14;21;17;21;21;-;11;-
+Greece;Israel;18;21;20;25;19;24;-;16;-
+Greece;Italy;11;1;13;9;14;7;4;4;7
+Greece;Moldova;7;8;6;4;6;4;7;5;6
+Greece;Norway;14;18;18;21;10;16;-;21;-
+Greece;Poland;17;22;22;19;20;22;-;14;-
+Greece;Portugal;8;15;2;16;1;6;5;3;8
+Greece;Romania;6;9;5;5;8;5;6;10;1
+Greece;Spain;20;17;17;24;22;23;-;24;-
+Greece;Sweden;4;3;14;15;16;11;-;8;3
+Greece;The Netherlands;25;25;3;18;23;19;-;18;-
+Greece;Ukraine;15;20;24;20;17;20;-;22;-
+Greece;United Kingdom;10;2;10;14;15;10;1;12;-
+Hungary;Armenia;15;6;15;13;2;9;2;19;-
+Hungary;Australia;3;4;4;7;9;4;7;16;-
+Hungary;Austria;6;13;9;16;10;11;-;15;-
+Hungary;Azerbaijan;11;5;12;9;8;7;4;17;-
+Hungary;Belarus;14;17;18;12;16;15;-;20;-
+Hungary;Belgium;20;21;8;6;13;13;-;3;8
+Hungary;Bulgaria;1;2;3;2;6;2;10;1;12
+Hungary;Croatia;23;24;25;17;25;24;-;6;5
+Hungary;Cyprus;18;10;20;20;20;18;-;9;2
+Hungary;Denmark;2;14;5;8;5;6;5;23;-
+Hungary;France;9;11;13;21;11;12;-;10;1
+Hungary;Germany;21;20;14;15;19;19;-;22;-
+Hungary;Greece;22;19;19;24;21;22;-;21;-
+Hungary;Hungary;-;-;-;-;-;-;-;-;-
+Hungary;Israel;12;23;22;19;22;21;-;14;-
+Hungary;Italy;16;15;21;22;18;20;-;7;4
+Hungary;Moldova;17;16;10;11;15;14;-;2;10
+Hungary;Norway;7;9;6;4;1;5;6;13;-
+Hungary;Poland;19;7;17;18;17;17;-;12;-
+Hungary;Portugal;5;1;1;1;4;1;12;4;7
+Hungary;Romania;25;25;24;14;23;23;-;5;6
+Hungary;Spain;24;22;23;25;24;25;-;25;-
+Hungary;Sweden;10;8;11;10;12;10;1;8;3
+Hungary;The Netherlands;4;3;2;3;3;3;8;11;-
+Hungary;Ukraine;13;18;16;23;7;16;-;24;-
+Hungary;United Kingdom;8;12;7;5;14;8;3;18;-
+Iceland;Armenia;14;23;20;14;10;19;-;22;-
+Iceland;Australia;6;4;2;4;3;2;10;11;-
+Iceland;Austria;9;9;19;7;16;11;-;18;-
+Iceland;Azerbaijan;12;14;22;15;11;15;-;20;-
+Iceland;Belarus;17;12;11;19;19;17;-;15;-
+Iceland;Belgium;13;10;18;8;9;9;2;2;10
+Iceland;Bulgaria;2;6;6;5;8;5;6;7;4
+Iceland;Croatia;26;26;17;26;23;25;-;19;-
+Iceland;Cyprus;21;8;16;6;20;14;-;13;-
+Iceland;Denmark;3;15;9;16;7;8;3;12;-
+Iceland;France;23;25;24;20;22;24;-;14;-
+Iceland;Germany;24;20;23;21;24;22;-;25;-
+Iceland;Greece;18;19;15;13;18;20;-;24;-
+Iceland;Hungary;11;7;5;18;4;7;4;9;2
+Iceland;Israel;20;21;10;24;5;18;-;21;-
+Iceland;Italy;4;2;8;3;14;6;5;4;7
+Iceland;Moldova;19;13;7;12;13;12;-;5;6
+Iceland;Norway;7;18;14;9;12;10;1;10;1
+Iceland;Poland;16;16;12;11;15;13;-;8;3
+Iceland;Portugal;1;1;1;1;1;1;12;1;12
+Iceland;Romania;15;24;13;25;21;21;-;6;5
+Iceland;Spain;22;17;25;22;26;23;-;23;-
+Iceland;Sweden;5;3;4;10;2;3;8;3;8
+Iceland;The Netherlands;8;11;21;17;17;16;-;17;-
+Iceland;Ukraine;25;22;26;23;25;26;-;26;-
+Iceland;United Kingdom;10;5;3;2;6;4;7;16;-
+Ireland;Armenia;19;11;25;26;17;22;-;25;-
+Ireland;Australia;23;21;7;19;6;17;-;15;-
+Ireland;Austria;8;2;4;5;12;4;7;16;-
+Ireland;Azerbaijan;4;10;17;14;10;10;1;23;-
+Ireland;Belarus;21;15;19;20;18;20;-;17;-
+Ireland;Belgium;13;1;2;1;4;1;12;6;5
+Ireland;Bulgaria;3;7;3;8;1;2;10;5;6
+Ireland;Croatia;7;3;20;24;16;14;-;8;3
+Ireland;Cyprus;9;17;23;21;21;19;-;19;-
+Ireland;Denmark;11;5;11;9;24;12;-;21;-
+Ireland;France;26;14;21;17;25;24;-;14;-
+Ireland;Germany;6;6;10;15;15;8;3;22;-
+Ireland;Greece;24;19;22;18;22;25;-;24;-
+Ireland;Hungary;16;25;24;25;9;23;-;9;2
+Ireland;Israel;22;18;13;16;2;15;-;18;-
+Ireland;Italy;10;24;8;4;11;11;-;10;1
+Ireland;Moldova;15;20;15;7;5;13;-;3;8
+Ireland;Norway;2;4;16;13;19;9;2;13;-
+Ireland;Poland;20;23;14;10;26;21;-;4;7
+Ireland;Portugal;1;22;1;11;7;6;5;2;10
+Ireland;Romania;5;9;6;6;3;3;8;1;12
+Ireland;Spain;25;26;26;23;23;26;-;26;-
+Ireland;Sweden;12;12;5;3;8;5;6;11;-
+Ireland;The Netherlands;14;8;9;2;13;7;4;12;-
+Ireland;Ukraine;17;16;18;22;14;18;-;20;-
+Ireland;United Kingdom;18;13;12;12;20;16;-;7;4
+Israel;Armenia;18;13;17;10;13;15;-;11;-
+Israel;Australia;10;11;15;13;14;14;-;21;-
+Israel;Austria;16;12;11;6;17;13;-;15;-
+Israel;Azerbaijan;12;10;6;17;12;11;-;19;-
+Israel;Belarus;11;9;12;11;6;10;1;9;2
+Israel;Belgium;2;4;9;12;2;3;8;5;6
+Israel;Bulgaria;5;8;4;4;8;4;7;2;10
+Israel;Croatia;25;18;18;25;25;24;-;12;-
+Israel;Cyprus;19;20;24;23;15;20;-;13;-
+Israel;Denmark;13;16;10;16;19;16;-;20;-
+Israel;France;7;5;3;8;7;5;6;7;4
+Israel;Germany;14;24;25;22;16;21;-;24;-
+Israel;Greece;21;19;22;24;18;22;-;22;-
+Israel;Hungary;20;15;16;7;4;12;-;10;1
+Israel;Israel;-;-;-;-;-;-;-;-;-
+Israel;Italy;3;17;14;3;11;9;2;3;8
+Israel;Moldova;6;6;8;18;10;8;3;6;5
+Israel;Norway;8;2;5;19;3;6;5;16;-
+Israel;Poland;23;22;20;9;20;19;-;23;-
+Israel;Portugal;1;3;1;1;1;1;12;1;12
+Israel;Romania;15;21;7;14;21;17;-;4;7
+Israel;Spain;17;25;23;20;23;23;-;25;-
+Israel;Sweden;4;1;2;2;9;2;10;8;3
+Israel;The Netherlands;22;14;19;15;22;18;-;14;-
+Israel;Ukraine;9;7;13;5;5;7;4;17;-
+Israel;United Kingdom;24;23;21;21;24;25;-;18;-
+Italy;Armenia;9;13;4;11;3;7;4;19;-
+Italy;Australia;16;7;16;16;21;14;-;22;-
+Italy;Austria;7;12;7;12;10;10;1;15;-
+Italy;Azerbaijan;4;2;1;3;1;1;12;20;-
+Italy;Belarus;21;17;21;18;16;20;-;11;-
+Italy;Belgium;3;5;5;1;6;4;7;9;2
+Italy;Bulgaria;10;8;9;9;11;9;2;3;8
+Italy;Croatia;24;24;19;22;15;22;-;5;6
+Italy;Cyprus;11;15;12;10;13;11;-;16;-
+Italy;Denmark;25;23;23;25;23;25;-;24;-
+Italy;France;6;1;10;2;2;5;6;10;1
+Italy;Germany;8;22;14;20;22;18;-;23;-
+Italy;Greece;22;19;22;23;20;23;-;14;-
+Italy;Hungary;15;10;17;14;9;12;-;7;4
+Italy;Israel;14;21;11;13;19;15;-;13;-
+Italy;Italy;-;-;-;-;-;-;-;-;-
+Italy;Moldova;5;3;3;4;5;3;8;1;12
+Italy;Norway;17;6;6;6;7;8;3;17;-
+Italy;Poland;19;18;15;24;25;21;-;8;3
+Italy;Portugal;1;9;8;7;12;6;5;6;5
+Italy;Romania;12;16;24;15;8;13;-;2;10
+Italy;Spain;20;25;20;17;24;24;-;25;-
+Italy;Sweden;2;4;2;5;4;2;10;12;-
+Italy;The Netherlands;23;14;25;8;14;17;-;18;-
+Italy;Ukraine;18;11;13;21;17;16;-;4;7
+Italy;United Kingdom;13;20;18;19;18;19;-;21;-
+Latvia;Armenia;22;24;13;18;19;20;-;20;-
+Latvia;Australia;4;9;9;10;8;6;5;16;-
+Latvia;Austria;7;10;8;7;7;5;6;22;-
+Latvia;Azerbaijan;18;25;15;19;15;19;-;12;-
+Latvia;Belarus;11;12;5;8;11;9;2;5;6
+Latvia;Belgium;6;2;2;3;5;2;10;1;12
+Latvia;Bulgaria;2;8;4;4;3;3;8;4;7
+Latvia;Croatia;25;17;26;20;14;22;-;15;-
+Latvia;Cyprus;20;26;21;23;23;25;-;14;-
+Latvia;Denmark;17;6;14;11;4;11;-;21;-
+Latvia;France;16;19;22;26;24;23;-;11;-
+Latvia;Germany;15;15;16;13;21;16;-;25;-
+Latvia;Greece;13;23;24;22;20;21;-;26;-
+Latvia;Hungary;24;11;12;24;16;18;-;9;2
+Latvia;Israel;23;20;25;16;25;24;-;23;-
+Latvia;Italy;8;16;23;6;18;13;-;8;3
+Latvia;Moldova;3;13;7;17;9;10;1;3;8
+Latvia;Norway;14;4;1;2;2;4;7;10;1
+Latvia;Poland;12;18;11;15;17;14;-;18;-
+Latvia;Portugal;1;1;3;1;1;1;12;2;10
+Latvia;Romania;5;3;17;12;10;8;3;6;5
+Latvia;Spain;26;22;20;25;26;26;-;24;-
+Latvia;Sweden;9;21;6;9;12;12;-;7;4
+Latvia;The Netherlands;21;7;18;14;13;15;-;19;-
+Latvia;Ukraine;19;14;10;21;22;17;-;17;-
+Latvia;United Kingdom;10;5;19;5;6;7;4;13;-
+Lithuania;Armenia;5;9;12;14;10;8;3;19;-
+Lithuania;Australia;17;10;9;9;15;10;1;13;-
+Lithuania;Austria;8;7;8;7;12;6;5;21;-
+Lithuania;Azerbaijan;15;17;10;17;7;12;-;17;-
+Lithuania;Belarus;7;21;24;13;14;15;-;10;1
+Lithuania;Belgium;6;6;5;23;3;7;4;2;10
+Lithuania;Bulgaria;2;4;7;4;8;4;7;4;7
+Lithuania;Croatia;22;25;20;22;6;22;-;14;-
+Lithuania;Cyprus;10;20;22;19;19;18;-;18;-
+Lithuania;Denmark;11;12;13;8;17;11;-;23;-
+Lithuania;France;25;18;26;26;18;26;-;12;-
+Lithuania;Germany;24;11;18;15;23;19;-;24;-
+Lithuania;Greece;16;22;25;21;26;25;-;26;-
+Lithuania;Hungary;26;24;11;18;9;17;-;9;2
+Lithuania;Israel;9;15;19;12;25;16;-;15;-
+Lithuania;Italy;4;3;3;5;5;3;8;6;5
+Lithuania;Moldova;21;23;6;10;16;14;-;3;8
+Lithuania;Norway;3;2;2;2;2;2;10;5;6
+Lithuania;Poland;14;13;14;11;20;13;-;11;-
+Lithuania;Portugal;1;1;1;1;1;1;12;1;12
+Lithuania;Romania;23;26;23;25;11;24;-;7;4
+Lithuania;Spain;20;16;15;24;22;23;-;25;-
+Lithuania;Sweden;13;5;4;3;4;5;6;8;3
+Lithuania;The Netherlands;12;8;16;6;13;9;2;20;-
+Lithuania;Ukraine;18;19;21;16;21;21;-;16;-
+Lithuania;United Kingdom;19;14;17;20;24;20;-;22;-
+Malta;Armenia;4;13;17;8;9;10;1;25;-
+Malta;Australia;25;20;21;23;20;22;-;16;-
+Malta;Austria;10;15;16;9;12;12;-;11;-
+Malta;Azerbaijan;17;23;26;22;26;25;-;21;-
+Malta;Belarus;6;6;9;19;6;9;2;24;-
+Malta;Belgium;24;24;25;25;22;26;-;6;5
+Malta;Bulgaria;3;4;15;1;4;3;8;2;10
+Malta;Croatia;2;12;2;10;3;5;6;8;3
+Malta;Cyprus;21;17;7;14;16;17;-;20;-
+Malta;Denmark;16;9;12;16;15;14;-;19;-
+Malta;France;7;5;5;18;5;7;4;13;-
+Malta;Germany;13;19;13;15;13;16;-;23;-
+Malta;Greece;26;22;18;13;23;21;-;18;-
+Malta;Hungary;11;11;11;2;8;8;3;9;2
+Malta;Israel;9;2;3;4;11;4;7;17;-
+Malta;Italy;1;1;1;6;1;1;12;1;12
+Malta;Moldova;15;7;8;5;21;11;-;10;1
+Malta;Norway;22;16;23;24;14;20;-;14;-
+Malta;Poland;14;21;10;21;25;18;-;15;-
+Malta;Portugal;5;10;4;3;2;2;10;3;8
+Malta;Romania;8;3;6;11;7;6;5;5;6
+Malta;Spain;23;26;20;20;24;24;-;26;-
+Malta;Sweden;19;8;14;7;17;13;-;4;7
+Malta;The Netherlands;12;14;22;12;10;15;-;12;-
+Malta;Ukraine;18;25;24;26;18;23;-;22;-
+Malta;United Kingdom;20;18;19;17;19;19;-;7;4
+Moldova;Armenia;10;11;4;6;4;5;6;25;-
+Moldova;Australia;9;15;8;8;7;7;4;17;-
+Moldova;Austria;12;5;11;11;10;9;2;24;-
+Moldova;Azerbaijan;6;22;6;5;6;6;5;2;10
+Moldova;Belarus;7;8;17;7;9;8;3;10;1
+Moldova;Belgium;23;24;13;19;17;22;-;9;2
+Moldova;Bulgaria;3;4;3;2;2;2;10;3;8
+Moldova;Croatia;21;25;22;25;24;25;-;19;-
+Moldova;Cyprus;18;14;24;16;19;20;-;13;-
+Moldova;Denmark;15;9;19;20;15;15;-;21;-
+Moldova;France;24;21;21;23;16;24;-;6;5
+Moldova;Germany;16;16;16;9;25;17;-;23;-
+Moldova;Greece;8;13;10;14;21;13;-;4;7
+Moldova;Hungary;4;12;5;17;14;10;1;11;-
+Moldova;Israel;20;19;15;22;12;19;-;15;-
+Moldova;Italy;25;20;23;10;13;21;-;7;4
+Moldova;Moldova;-;-;-;-;-;-;-;-;-
+Moldova;Norway;5;23;9;13;11;12;-;14;-
+Moldova;Poland;19;10;20;15;18;16;-;18;-
+Moldova;Portugal;13;7;2;3;5;4;7;5;6
+Moldova;Romania;1;1;1;1;1;1;12;1;12
+Moldova;Spain;14;18;25;24;22;23;-;22;-
+Moldova;Sweden;2;6;7;4;3;3;8;8;3
+Moldova;The Netherlands;11;2;12;12;23;11;-;20;-
+Moldova;Ukraine;22;17;18;21;8;18;-;12;-
+Moldova;United Kingdom;17;3;14;18;20;14;-;16;-
+Montenegro;Armenia;8;26;4;12;6;7;4;20;-
+Montenegro;Australia;23;18;12;10;11;15;-;14;-
+Montenegro;Austria;12;12;6;26;7;10;1;21;-
+Montenegro;Azerbaijan;22;20;8;20;10;17;-;6;5
+Montenegro;Belarus;21;25;16;23;19;25;-;13;-
+Montenegro;Belgium;7;7;15;8;5;5;6;7;4
+Montenegro;Bulgaria;11;2;23;16;9;9;2;5;6
+Montenegro;Croatia;5;8;11;7;24;6;5;1;12
+Montenegro;Cyprus;16;15;21;24;18;23;-;10;1
+Montenegro;Denmark;17;16;26;21;13;22;-;18;-
+Montenegro;France;10;13;13;1;21;8;3;9;2
+Montenegro;Germany;9;22;22;15;16;18;-;22;-
+Montenegro;Greece;4;4;1;2;1;1;12;19;-
+Montenegro;Hungary;20;17;17;11;25;20;-;4;7
+Montenegro;Israel;26;24;25;6;26;26;-;16;-
+Montenegro;Italy;2;5;2;4;4;3;8;2;10
+Montenegro;Moldova;19;9;10;19;8;12;-;8;3
+Montenegro;Norway;14;19;18;17;17;19;-;24;-
+Montenegro;Poland;13;11;20;18;12;16;-;23;-
+Montenegro;Portugal;18;3;9;14;20;11;-;3;8
+Montenegro;Romania;3;1;3;3;3;2;10;11;-
+Montenegro;Spain;15;21;14;22;23;24;-;25;-
+Montenegro;Sweden;6;6;7;5;15;4;7;12;-
+Montenegro;The Netherlands;24;23;5;25;14;21;-;26;-
+Montenegro;Ukraine;25;14;24;9;2;14;-;15;-
+Montenegro;United Kingdom;1;10;19;13;22;13;-;17;-
+Norway;Armenia;13;18;20;13;15;17;-;21;-
+Norway;Australia;6;9;6;12;13;8;3;11;-
+Norway;Austria;17;12;21;16;17;19;-;17;-
+Norway;Azerbaijan;10;21;19;8;12;13;-;24;-
+Norway;Belarus;21;22;15;21;14;20;-;19;-
+Norway;Belgium;15;14;2;19;18;12;-;4;7
+Norway;Bulgaria;1;3;1;4;7;1;12;3;8
+Norway;Croatia;23;24;24;22;24;24;-;10;1
+Norway;Cyprus;16;17;22;20;23;22;-;14;-
+Norway;Denmark;3;5;4;5;3;3;8;15;-
+Norway;France;19;19;10;17;6;14;-;16;-
+Norway;Germany;20;23;17;25;21;23;-;25;-
+Norway;Greece;12;13;16;10;22;16;-;20;-
+Norway;Hungary;22;15;12;7;11;11;-;7;4
+Norway;Israel;14;4;9;6;4;6;5;12;-
+Norway;Italy;9;2;7;2;2;4;7;9;2
+Norway;Moldova;11;8;5;24;8;9;2;5;6
+Norway;Norway;-;-;-;-;-;-;-;-;-
+Norway;Poland;8;16;23;18;16;18;-;8;3
+Norway;Portugal;4;1;11;1;1;2;10;1;12
+Norway;Romania;24;10;14;14;10;15;-;2;10
+Norway;Spain;25;20;25;23;25;25;-;22;-
+Norway;Sweden;7;6;3;3;5;5;6;6;5
+Norway;The Netherlands;5;7;8;9;9;7;4;13;-
+Norway;Ukraine;18;25;18;15;20;21;-;23;-
+Norway;United Kingdom;2;11;13;11;19;10;1;18;-
+Poland;Armenia;11;11;10;6;7;9;2;17;-
+Poland;Australia;3;4;9;2;8;4;7;16;-
+Poland;Austria;15;13;16;15;6;13;-;22;-
+Poland;Azerbaijan;10;8;6;10;11;10;1;15;-
+Poland;Belarus;13;15;21;9;24;17;-;7;4
+Poland;Belgium;7;3;3;1;5;2;10;1;12
+Poland;Bulgaria;2;5;11;7;13;5;6;3;8
+Poland;Croatia;23;20;25;21;12;21;-;10;1
+Poland;Cyprus;22;24;22;22;21;23;-;14;-
+Poland;Denmark;4;10;20;20;3;11;-;24;-
+Poland;France;17;17;8;17;14;14;-;13;-
+Poland;Germany;12;18;17;8;23;15;-;23;-
+Poland;Greece;24;22;24;23;20;24;-;18;-
+Poland;Hungary;14;21;13;18;17;18;-;6;5
+Poland;Israel;20;19;23;16;10;19;-;20;-
+Poland;Italy;21;23;14;19;25;22;-;11;-
+Poland;Moldova;16;12;12;4;15;12;-;5;6
+Poland;Norway;5;9;7;5;18;8;3;12;-
+Poland;Poland;-;-;-;-;-;-;-;-;-
+Poland;Portugal;1;1;1;3;4;1;12;2;10
+Poland;Romania;18;16;15;14;16;16;-;4;7
+Poland;Spain;25;25;18;24;22;25;-;25;-
+Poland;Sweden;8;14;4;13;2;7;4;8;3
+Poland;The Netherlands;6;2;5;11;1;3;8;19;-
+Poland;Ukraine;19;6;19;25;19;20;-;9;2
+Poland;United Kingdom;9;7;2;12;9;6;5;21;-
+Portugal;Armenia;19;13;10;5;16;13;-;19;-
+Portugal;Australia;6;7;7;8;17;6;5;22;-
+Portugal;Austria;2;2;9;4;20;2;10;17;-
+Portugal;Azerbaijan;1;1;2;10;21;1;12;15;-
+Portugal;Belarus;23;16;16;2;6;12;-;16;-
+Portugal;Belgium;10;3;4;13;14;3;8;2;10
+Portugal;Bulgaria;3;4;18;16;23;14;-;3;8
+Portugal;Croatia;25;25;15;24;1;22;-;12;-
+Portugal;Cyprus;16;12;12;7;13;10;1;18;-
+Portugal;Denmark;20;20;21;19;5;20;-;25;-
+Portugal;France;5;10;3;20;8;7;4;5;6
+Portugal;Germany;18;19;22;21;11;23;-;23;-
+Portugal;Greece;12;9;14;23;12;17;-;20;-
+Portugal;Hungary;22;15;19;6;3;15;-;9;2
+Portugal;Israel;17;22;25;22;15;25;-;11;-
+Portugal;Italy;8;21;17;15;10;18;-;7;4
+Portugal;Moldova;13;8;1;1;22;5;6;1;12
+Portugal;Norway;14;6;6;3;25;9;2;24;-
+Portugal;Poland;15;17;20;18;9;19;-;21;-
+Portugal;Portugal;-;-;-;-;-;-;-;-;-
+Portugal;Romania;24;24;24;25;2;24;-;4;7
+Portugal;Spain;11;18;8;14;19;16;-;6;5
+Portugal;Sweden;7;5;5;9;18;4;7;10;1
+Portugal;The Netherlands;9;14;11;12;7;8;3;13;-
+Portugal;Ukraine;21;23;23;17;4;21;-;8;3
+Portugal;United Kingdom;4;11;13;11;24;11;-;14;-
+Romania;Armenia;23;20;13;23;25;22;-;13;-
+Romania;Australia;11;4;8;12;7;7;4;16;-
+Romania;Austria;8;13;12;13;10;10;1;17;-
+Romania;Azerbaijan;19;16;16;16;23;18;-;20;-
+Romania;Belarus;12;17;14;9;16;14;-;21;-
+Romania;Belgium;17;9;5;11;20;13;-;6;5
+Romania;Bulgaria;1;3;3;2;1;2;10;3;8
+Romania;Croatia;6;10;11;8;8;8;3;8;3
+Romania;Cyprus;16;15;23;18;14;17;-;11;-
+Romania;Denmark;5;8;7;3;9;6;5;23;-
+Romania;France;25;23;24;22;24;25;-;7;4
+Romania;Germany;24;22;17;21;19;21;-;15;-
+Romania;Greece;22;19;19;24;18;20;-;10;1
+Romania;Hungary;10;11;22;7;11;12;-;2;10
+Romania;Israel;7;14;9;14;5;9;2;12;-
+Romania;Italy;14;18;20;19;13;16;-;5;6
+Romania;Moldova;2;1;2;4;3;3;8;1;12
+Romania;Norway;13;12;10;10;12;11;-;14;-
+Romania;Poland;15;21;21;17;17;19;-;25;-
+Romania;Portugal;9;5;6;5;4;5;6;4;7
+Romania;Romania;-;-;-;-;-;-;-;-;-
+Romania;Spain;20;25;25;25;22;24;-;22;-
+Romania;Sweden;4;7;4;6;6;4;7;9;2
+Romania;The Netherlands;3;2;1;1;2;1;12;18;-
+Romania;Ukraine;21;24;18;20;21;23;-;24;-
+Romania;United Kingdom;18;6;15;15;15;15;-;19;-
+San Marino;Armenia;20;9;4;5;5;7;4;19;-
+San Marino;Australia;9;16;22;15;17;16;-;24;-
+San Marino;Austria;10;8;11;13;13;11;-;20;-
+San Marino;Azerbaijan;16;4;8;9;4;6;5;10;1
+San Marino;Belarus;26;21;6;26;10;21;-;17;-
+San Marino;Belgium;3;7;9;8;3;3;8;6;5
+San Marino;Bulgaria;7;6;7;14;15;9;2;1;12
+San Marino;Croatia;17;22;14;24;25;22;-;8;3
+San Marino;Cyprus;24;19;25;25;23;26;-;22;-
+San Marino;Denmark;21;15;12;19;18;18;-;16;-
+San Marino;France;15;12;10;16;20;15;-;13;-
+San Marino;Germany;14;24;24;12;11;17;-;26;-
+San Marino;Greece;12;20;5;18;14;13;-;23;-
+San Marino;Hungary;13;11;17;23;22;20;-;7;4
+San Marino;Israel;19;23;23;20;26;24;-;15;-
+San Marino;Italy;1;10;21;4;8;8;3;2;10
+San Marino;Moldova;23;13;19;2;16;14;-;3;8
+San Marino;Norway;5;3;16;1;2;2;10;21;-
+San Marino;Poland;8;14;13;11;9;10;1;18;-
+San Marino;Portugal;2;1;1;6;1;1;12;4;7
+San Marino;Romania;25;17;15;22;7;19;-;5;6
+San Marino;Spain;22;25;26;17;24;25;-;25;-
+San Marino;Sweden;18;26;18;21;21;23;-;9;2
+San Marino;The Netherlands;6;5;3;10;6;4;7;14;-
+San Marino;Ukraine;11;18;20;3;12;12;-;11;-
+San Marino;United Kingdom;4;2;2;7;19;5;6;12;-
+Serbia;Armenia;15;6;10;8;9;6;5;17;-
+Serbia;Australia;7;10;14;10;8;8;3;16;-
+Serbia;Austria;6;8;12;12;10;7;4;20;-
+Serbia;Azerbaijan;24;12;17;9;16;18;-;21;-
+Serbia;Belarus;23;24;23;14;24;24;-;15;-
+Serbia;Belgium;21;23;24;26;13;23;-;8;3
+Serbia;Bulgaria;5;7;9;19;5;5;6;2;10
+Serbia;Croatia;11;25;8;4;26;15;-;6;5
+Serbia;Cyprus;12;13;19;17;17;16;-;11;-
+Serbia;Denmark;18;19;20;22;20;21;-;22;-
+Serbia;France;19;22;7;5;11;12;-;9;2
+Serbia;Germany;20;18;22;24;22;22;-;26;-
+Serbia;Greece;16;9;18;6;21;14;-;13;-
+Serbia;Hungary;2;3;4;1;2;2;10;1;12
+Serbia;Israel;10;11;11;11;12;10;1;14;-
+Serbia;Italy;3;4;1;2;3;3;8;5;6
+Serbia;Moldova;8;1;3;7;4;4;7;4;7
+Serbia;Norway;9;5;13;25;6;11;-;12;-
+Serbia;Poland;22;16;16;23;18;20;-;24;-
+Serbia;Portugal;1;2;2;3;1;1;12;3;8
+Serbia;Romania;26;26;26;16;23;26;-;7;4
+Serbia;Spain;25;21;25;18;25;25;-;23;-
+Serbia;Sweden;4;14;5;20;7;9;2;10;1
+Serbia;The Netherlands;14;15;6;13;19;13;-;19;-
+Serbia;Ukraine;13;20;15;15;15;17;-;25;-
+Serbia;United Kingdom;17;17;21;21;14;19;-;18;-
+Slovenia;Armenia;7;12;8;6;10;8;3;19;-
+Slovenia;Australia;5;5;6;4;4;4;7;12;-
+Slovenia;Austria;10;7;15;17;9;11;-;14;-
+Slovenia;Azerbaijan;13;17;9;10;11;12;-;7;4
+Slovenia;Belarus;15;14;14;13;13;14;-;20;-
+Slovenia;Belgium;11;8;5;8;6;6;5;5;6
+Slovenia;Bulgaria;4;4;2;1;3;3;8;4;7
+Slovenia;Croatia;19;13;16;19;14;15;-;1;12
+Slovenia;Cyprus;9;26;21;20;26;20;-;15;-
+Slovenia;Denmark;26;15;13;15;15;17;-;26;-
+Slovenia;France;20;23;26;21;23;24;-;11;-
+Slovenia;Germany;14;22;19;12;16;16;-;18;-
+Slovenia;Greece;24;25;20;23;21;25;-;23;-
+Slovenia;Hungary;12;16;22;16;20;18;-;6;5
+Slovenia;Israel;25;19;17;24;18;21;-;22;-
+Slovenia;Italy;18;6;12;5;7;9;2;2;10
+Slovenia;Moldova;6;10;18;14;19;13;-;8;3
+Slovenia;Norway;22;20;10;18;17;19;-;16;-
+Slovenia;Poland;8;9;7;7;12;7;4;25;-
+Slovenia;Portugal;1;1;1;2;5;1;12;3;8
+Slovenia;Romania;23;18;25;26;25;26;-;9;2
+Slovenia;Spain;16;24;24;25;22;23;-;24;-
+Slovenia;Sweden;2;3;11;9;2;5;6;10;1
+Slovenia;The Netherlands;17;11;4;11;8;10;1;13;-
+Slovenia;Ukraine;21;21;23;22;24;22;-;21;-
+Slovenia;United Kingdom;3;2;3;3;1;2;10;17;-
+Spain;Armenia;13;24;19;21;9;17;-;15;-
+Spain;Australia;7;8;4;4;4;3;8;23;-
+Spain;Austria;8;7;8;7;10;8;3;22;-
+Spain;Azerbaijan;12;15;11;11;13;13;-;25;-
+Spain;Belarus;23;17;17;15;22;19;-;20;-
+Spain;Belgium;15;5;3;9;8;7;4;7;4
+Spain;Bulgaria;6;6;6;8;5;5;6;2;10
+Spain;Croatia;9;18;12;23;17;15;-;11;-
+Spain;Cyprus;17;20;25;16;20;20;-;16;-
+Spain;Denmark;11;10;14;12;12;12;-;24;-
+Spain;France;16;4;10;5;15;11;-;8;3
+Spain;Germany;18;16;16;22;18;18;-;12;-
+Spain;Greece;5;13;18;10;2;9;2;21;-
+Spain;Hungary;25;25;24;14;25;24;-;17;-
+Spain;Israel;20;19;23;19;19;22;-;14;-
+Spain;Italy;3;1;2;2;1;2;10;3;8
+Spain;Moldova;2;12;5;6;6;4;7;5;6
+Spain;Norway;22;22;21;25;24;25;-;19;-
+Spain;Poland;19;21;20;17;21;21;-;18;-
+Spain;Portugal;1;2;1;1;3;1;12;1;12
+Spain;Romania;24;14;9;20;16;16;-;4;7
+Spain;Spain;-;-;-;-;-;-;-;-;-
+Spain;Sweden;4;11;7;3;7;6;5;6;5
+Spain;The Netherlands;10;3;13;13;11;10;1;9;2
+Spain;Ukraine;21;23;15;24;23;23;-;13;-
+Spain;United Kingdom;14;9;22;18;14;14;-;10;1
+Sweden;Armenia;17;18;12;24;11;18;-;15;-
+Sweden;Australia;5;8;4;1;6;2;10;12;-
+Sweden;Austria;13;2;6;3;18;7;4;19;-
+Sweden;Azerbaijan;20;15;11;12;13;15;-;20;-
+Sweden;Belarus;25;22;15;13;20;23;-;23;-
+Sweden;Belgium;15;21;17;5;1;10;1;1;12
+Sweden;Bulgaria;12;1;2;10;4;4;7;4;7
+Sweden;Croatia;19;24;14;21;12;21;-;9;2
+Sweden;Cyprus;3;9;16;2;22;9;2;11;-
+Sweden;Denmark;14;3;5;8;9;6;5;17;-
+Sweden;France;1;20;18;18;8;14;-;13;-
+Sweden;Germany;10;14;8;11;17;11;-;24;-
+Sweden;Greece;18;23;25;25;23;24;-;21;-
+Sweden;Hungary;21;11;20;17;15;19;-;7;4
+Sweden;Israel;16;10;21;20;19;20;-;18;-
+Sweden;Italy;4;13;10;7;3;5;6;10;1
+Sweden;Moldova;2;5;13;4;5;3;8;3;8
+Sweden;Norway;9;17;7;16;16;13;-;5;6
+Sweden;Poland;11;16;19;14;21;17;-;6;5
+Sweden;Portugal;8;7;1;6;2;1;12;2;10
+Sweden;Romania;6;19;23;23;7;16;-;8;3
+Sweden;Spain;23;12;22;9;25;22;-;25;-
+Sweden;Sweden;-;-;-;-;-;-;-;-;-
+Sweden;The Netherlands;7;4;3;19;14;8;3;14;-
+Sweden;Ukraine;24;25;24;22;24;25;-;22;-
+Sweden;United Kingdom;22;6;9;15;10;12;-;16;-
+Switzerland;Armenia;16;13;18;18;22;20;-;22;-
+Switzerland;Australia;9;5;5;11;15;7;4;13;-
+Switzerland;Austria;12;12;6;19;16;12;-;14;-
+Switzerland;Azerbaijan;17;23;24;20;21;21;-;25;-
+Switzerland;Belarus;14;19;20;8;7;14;-;21;-
+Switzerland;Belgium;8;1;16;2;4;5;6;4;7
+Switzerland;Bulgaria;5;4;7;1;2;3;8;5;6
+Switzerland;Croatia;26;25;12;26;20;24;-;3;8
+Switzerland;Cyprus;19;15;13;25;13;19;-;19;-
+Switzerland;Denmark;21;20;9;10;19;17;-;26;-
+Switzerland;France;10;17;17;12;6;10;1;9;2
+Switzerland;Germany;18;8;23;9;10;15;-;8;3
+Switzerland;Greece;24;22;21;23;23;25;-;16;-
+Switzerland;Hungary;6;16;3;4;18;8;3;6;5
+Switzerland;Israel;7;18;14;15;11;13;-;17;-
+Switzerland;Italy;11;9;19;17;3;9;2;2;10
+Switzerland;Moldova;13;14;8;24;12;16;-;11;-
+Switzerland;Norway;2;7;10;3;9;6;5;18;-
+Switzerland;Poland;20;10;11;14;24;18;-;15;-
+Switzerland;Portugal;1;3;1;6;5;1;12;1;12
+Switzerland;Romania;25;26;26;21;26;26;-;7;4
+Switzerland;Spain;23;21;25;22;17;22;-;23;-
+Switzerland;Sweden;3;2;4;7;1;2;10;10;1
+Switzerland;The Netherlands;4;11;2;5;8;4;7;12;-
+Switzerland;Ukraine;22;24;22;16;25;23;-;24;-
+Switzerland;United Kingdom;15;6;15;13;14;11;-;20;-
+The Netherlands;Armenia;23;20;24;22;20;23;-;11;-
+The Netherlands;Australia;8;6;6;7;11;7;4;18;-
+The Netherlands;Austria;15;13;8;6;6;8;3;14;-
+The Netherlands;Azerbaijan;18;22;18;23;19;20;-;22;-
+The Netherlands;Belarus;16;17;17;14;16;17;-;19;-
+The Netherlands;Belgium;11;5;5;21;15;9;2;2;10
+The Netherlands;Bulgaria;2;1;1;3;2;2;10;3;8
+The Netherlands;Croatia;20;21;25;18;18;21;-;8;3
+The Netherlands;Cyprus;13;10;20;13;8;13;-;17;-
+The Netherlands;Denmark;3;7;4;2;3;3;8;23;-
+The Netherlands;France;12;15;12;11;14;12;-;12;-
+The Netherlands;Germany;17;19;15;16;10;16;-;20;-
+The Netherlands;Greece;22;18;11;15;17;19;-;21;-
+The Netherlands;Hungary;10;16;16;20;13;15;-;5;6
+The Netherlands;Israel;21;14;13;12;21;18;-;16;-
+The Netherlands;Italy;9;9;19;10;12;11;-;9;2
+The Netherlands;Moldova;14;11;10;9;22;14;-;6;5
+The Netherlands;Norway;6;4;2;8;4;4;7;15;-
+The Netherlands;Poland;25;24;23;24;24;25;-;10;1
+The Netherlands;Portugal;1;2;3;1;1;1;12;1;12
+The Netherlands;Romania;5;12;14;19;9;10;1;4;7
+The Netherlands;Spain;24;25;22;25;23;24;-;25;-
+The Netherlands;Sweden;4;3;9;4;5;5;6;7;4
+The Netherlands;The Netherlands;-;-;-;-;-;-;-;-;-
+The Netherlands;Ukraine;19;23;21;17;25;22;-;24;-
+The Netherlands;United Kingdom;7;8;7;5;7;6;5;13;-
+Ukraine;Armenia;8;11;12;20;7;13;-;16;-
+Ukraine;Australia;13;13;10;10;4;9;2;19;-
+Ukraine;Austria;22;20;21;24;13;24;-;22;-
+Ukraine;Azerbaijan;12;6;5;12;6;5;6;11;-
+Ukraine;Belarus;3;3;1;2;3;1;12;3;8
+Ukraine;Belgium;19;21;6;3;5;10;1;6;5
+Ukraine;Bulgaria;25;7;17;23;25;22;-;9;2
+Ukraine;Croatia;6;5;8;4;14;4;7;15;-
+Ukraine;Cyprus;16;12;19;21;21;19;-;12;-
+Ukraine;Denmark;11;24;15;16;16;16;-;20;-
+Ukraine;France;1;17;7;9;8;6;5;5;6
+Ukraine;Germany;15;22;22;22;18;23;-;24;-
+Ukraine;Greece;7;14;23;18;17;15;-;21;-
+Ukraine;Hungary;10;8;3;1;2;3;8;7;4
+Ukraine;Israel;23;18;18;17;19;20;-;17;-
+Ukraine;Italy;24;25;11;13;23;21;-;13;-
+Ukraine;Moldova;2;1;16;5;20;7;4;1;12
+Ukraine;Norway;21;10;9;8;10;12;-;10;1
+Ukraine;Poland;4;16;24;19;24;18;-;14;-
+Ukraine;Portugal;5;2;2;6;1;2;10;2;10
+Ukraine;Romania;17;9;4;15;11;11;-;8;3
+Ukraine;Spain;18;23;25;25;22;25;-;25;-
+Ukraine;Sweden;20;15;13;7;12;14;-;4;7
+Ukraine;The Netherlands;9;4;14;11;9;8;3;23;-
+Ukraine;Ukraine;-;-;-;-;-;-;-;-;-
+Ukraine;United Kingdom;14;19;20;14;15;17;-;18;-
+United Kingdom;Armenia;18;15;9;25;16;18;-;21;-
+United Kingdom;Australia;2;8;3;4;7;2;10;16;-
+United Kingdom;Austria;5;19;10;8;9;8;3;18;-
+United Kingdom;Azerbaijan;19;12;17;18;13;15;-;20;-
+United Kingdom;Belarus;3;11;14;19;8;10;1;17;-
+United Kingdom;Belgium;4;6;12;1;15;6;5;8;3
+United Kingdom;Bulgaria;10;2;1;3;10;4;7;1;12
+United Kingdom;Croatia;20;25;24;23;6;23;-;6;5
+United Kingdom;Cyprus;13;17;15;15;5;12;-;13;-
+United Kingdom;Denmark;12;4;4;11;20;9;2;24;-
+United Kingdom;France;23;22;19;22;25;25;-;15;-
+United Kingdom;Germany;8;23;8;5;12;11;-;23;-
+United Kingdom;Greece;15;16;22;21;24;22;-;11;-
+United Kingdom;Hungary;17;18;21;24;23;24;-;10;1
+United Kingdom;Israel;11;24;16;20;11;17;-;19;-
+United Kingdom;Italy;16;14;23;17;18;20;-;9;2
+United Kingdom;Moldova;7;7;7;2;4;5;6;5;6
+United Kingdom;Norway;24;9;20;12;14;14;-;14;-
+United Kingdom;Poland;14;10;11;16;22;13;-;2;10
+United Kingdom;Portugal;1;3;5;7;1;1;12;3;8
+United Kingdom;Romania;22;13;13;14;17;16;-;4;7
+United Kingdom;Spain;25;21;25;10;2;19;-;25;-
+United Kingdom;Sweden;9;1;6;6;3;3;8;7;4
+United Kingdom;The Netherlands;6;5;2;9;19;7;4;12;-
+United Kingdom;Ukraine;21;20;18;13;21;21;-;22;-
+United Kingdom;United Kingdom;-;-;-;-;-;-;-;-;

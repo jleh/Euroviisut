@@ -13,11 +13,15 @@ var colors = ['#013808','#0D4711','#1D561C','#2E6627','#407535','#538543',
 var map;
 var countryLayer;
 
-var participants = ['Israel', 'Poland', 'Belarus', 'Austria', 'Armenia',
-  'The Netherlands', 'Moldova', 'Hungary', 'Italy', 'Denmark', 'Portugal',
-  'Azerbaijan', 'Croatia', 'Australia', 'Greece', 'Spain', 'Norway',
-  'United Kingdom', 'Cyprus', 'Romania', 'Germany', 'Ukraine', 'Belgium',
-  'Sweden', 'Bulgaria', 'France'
+var participants = [
+"Albania", "Armenia", "Australia", "Austria",
+"Azerbaijan", "Belarus", "Belgium", "Bulgaria", "Croatia", "Cyprus", 
+"Czech Republic", 
+"Denmark", "Estonia", "F.Y.R. Macedonia", "France", "Finland", "Georgia",
+"Germany", "Greece", "Hungary", "Iceland", "Israel", "Italy", "Latvia",
+"Lithuania", "Malta", "Moldova", "Montenegro", 
+"Norway", "Poland", "Portugal", "Romania", "Spain", "Sweden", "Switzerland",
+"The Netherlands", "Ukraine", "United Kingdom"
 ];
 
 var countryData = {
@@ -46,7 +50,14 @@ var countryData = {
     'Russia': 'ru',
     'Sweden': 'se',
     'Ukraine': 'ua',
-    'Malta': 'mt'
+    'Malta': 'mt',
+    'Norway': 'no',
+    'Moldova': 'md',
+    'Denmark': 'dk',
+    'Portugal': 'pt',
+    'Romania': 'ro',
+    'Greece': 'gr',
+    'Belarus': 'by'
 };
 
 map = L.map('map', {
@@ -66,7 +77,13 @@ $.getJSON('points.json', function(data) {
     points = data;
 });
 
-$.getJSON('europe.json', function(data) {
+$.getJSON('world.json', function(data) {
+    var filtered = _.filter(data.features, function(feature) {
+        return participants.indexOf(feature.properties.name) !== -1;
+    });
+
+    data.features = filtered;
+
     countryLayer = L.geoJson(data, {
         style: {
             weight: 1,
@@ -74,7 +91,7 @@ $.getJSON('europe.json', function(data) {
             fillOpacity: 0.1
         },
         onEachFeature: function(feature, layer) {
-            var name = feature.properties.admin;
+            var name = feature.properties.name;
 
             layer.on('click', function() {
                 showPoints(name);
@@ -85,13 +102,13 @@ $.getJSON('europe.json', function(data) {
 
 function pointStyle(layer, name, pointList) {
     // Selected country
-    if (layer.properties.admin == name) {
+    if (layer.properties.name == name) {
         return {
             fillOpacity: 0.6
         };
     }
 
-    var point = _.find(pointList, { country: layer.properties.admin });
+    var point = _.find(pointList, { country: layer.properties.name });
 
     if (point) {
         return {
