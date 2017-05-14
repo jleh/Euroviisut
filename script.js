@@ -73,6 +73,11 @@ map.attributionControl.setPrefix("");
 
 $('.australia-color').click(showAusPoints);
 
+var counrtyList = Handlebars.compile($('#dropdown').html());
+$("#country-select").html(counrtyList({ country: participants }));
+$("#country-select select").change(function() { showPoints($(this).val()); });
+
+
 $.getJSON('points.json', function(data) {
     points = data;
 });

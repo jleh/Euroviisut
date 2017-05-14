@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Euroviisut 2016</title>
+    <title>Euroviisut 2017</title>
 
     <link rel="stylesheet" type="text/css" href="css/flag-icon.css">
 </head>
@@ -18,8 +18,9 @@
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12 points-col">
                 <h2>Miten Euroviisujen finaalissa äänestettiin</h2>
+                <div id="country-select"></div>
                 <div id="points-data">
-                    Valitse maa kartalta.
+                    Valitse maa listasta tai kartalta.
                 </div>
 
                 <div class="attribution">
@@ -73,6 +74,14 @@
             </div>
 
         </div>
+    </script>
+
+    <script id="dropdown" type="text/template">
+        <select>
+            {{#each country}}
+                <option value="{{this}}">{{this}}</option>
+            {{/each}}
+        </select>
     </script>
 
     <script src="bundle.js"></script>
