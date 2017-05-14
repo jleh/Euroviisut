@@ -110,6 +110,7 @@ function pointStyle(layer, name, pointList) {
     // Selected country
     if (layer.properties.name == name) {
         return {
+            fillColor: '#03f',
             fillOpacity: 0.6
         };
     }
