@@ -1,0 +1,36 @@
+{
+  "name": "euroviisut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parser.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "handlebars": "^4.0.8",
+    "jquery": "^3.2.1",
+    "leaflet": "^1.0.3",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.1",
+    "file-loader": "^0.11.1",
+    "style-loader": "^0.17.0",
+    "url-loader": "^0.5.8",
+    "webpack": "^2.5.1",
+    "webpack-dev-server": "^2.4.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jleh/Euroviisut.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jleh/Euroviisut/issues"
+  },
+  "homepage": "https://github.com/jleh/Euroviisut#readme"
+}

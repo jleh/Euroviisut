@@ -6,77 +6,17 @@
 
     <title>Euroviisut 2016</title>
 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
     <link rel="stylesheet" type="text/css" href="css/flag-icon.css">
-    <style type="text/css">
-        body, html {
-            height: 100%;
-            margin: 0;
-        }
-
-        .container-fluid,
-        .container-fluid > .row,
-        .map-col {
-            height: 100%;
-        }
-
-        #map {
-            height: 100%;
-            width: 100%;
-        }
-        .leaflet-container {
-            background-color: #fff;
-        }
-
-        .points-0 { background-color: #013808 }
-        .points-1 { background-color: #1D561C }
-        .points-2 { background-color: #2E6627 }
-        .points-3 { background-color: #407535 }
-        .points-4 { background-color: #538543 }
-        .points-5 { background-color: #689453 }
-        .points-6 { background-color: #7FA465 }
-        .points-7 { background-color: #96B378 }
-        .points-8 { background-color: #B0C18C }
-        .points-9 { background-color: #CBD0A2 }
-        .points-10 { background-color: #E7DEBA }
-        .points-11 { background-color: #E7DEBA }
-
-        .televote-table .point-color {
-            display: none;
-        }
-        .points-col {
-            height: 100%;
-        }
-        .australia {
-            position: absolute;
-            bottom: 0;
-            font-weight: bold;
-        }
-        .australia-color {
-            height: 3em;
-            width: 3em;
-            border: 1px solid;
-            display: inline-block;
-            cursor: pointer;
-        }
-        .attribution {
-            position: absolute;
-            bottom: 0;
-            right: 0;
-        }
-    </style>
-
 </head>
 <body>
-    
+
     <div class="container-fluid">
         <div class="row">
 
-            <div class="col-md-6 col-xs-6 map-col">
+            <div class="col-md-6 col-xs-12 map-col">
                 <div id="map"></div>
             </div>
-            <div class="col-md-6 col-xs-6 points-col">
+            <div class="col-md-6 col-xs-12 points-col">
                 <h2>Miten Euroviisujen finaalissa äänestettiin</h2>
                 <div id="points-data">
                     Valitse maa kartalta.
@@ -93,7 +33,7 @@
             </div>
         </div>
     </div>
-    
+
 
     <script id="modal-template" type="text/template">
         <h3>{{countryName}}</h3>
@@ -104,7 +44,7 @@
 
         <div class="row">
             <div class="col-sm-6">
-                <h4>Tuomariston pisteet</h4>
+                <h4 class="table-header">Tuomariston pisteet</h4>
 
                 <table class="table jury-table">
                     {{#each juryPoints}}
@@ -118,7 +58,7 @@
                 </table>
             </div>
             <div class="col-sm-6">
-                <h4>Puhelinäänestyksen pisteet</h4>
+                <h4 class="table-header">Puhelinäänestyksen pisteet</h4>
 
                 <table class="table televote-table">
                     {{#each televotePoints}}
@@ -131,25 +71,21 @@
                     {{/each}}
                 </table>
             </div>
+
         </div>
     </script>
 
-    <script src="https://code.jquery.com/jquery-2.2.3.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.12.0/lodash.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
-    <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.js"></script>
-    <script src="script.js"></script>
-    
+    <script src="bundle.js"></script>
+
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-    
+
       ga('create', 'UA-46303010-6', 'auto');
       ga('send', 'pageview');
-    
+
     </script>
 </body>
 </html>

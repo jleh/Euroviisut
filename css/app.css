@@ -1,0 +1,65 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.container-fluid,
+.container-fluid > .row,
+.map-col {
+    height: 100%;
+}
+
+@media(max-width: 750px) {
+  .map-col {
+    height: 55%;
+  }
+}
+
+#map {
+    height: 100%;
+    width: 100%;
+}
+.leaflet-container {
+    background-color: #fff;
+}
+
+.points-0 { background-color: #013808 }
+.points-1 { background-color: #1D561C }
+.points-2 { background-color: #2E6627 }
+.points-3 { background-color: #407535 }
+.points-4 { background-color: #538543 }
+.points-5 { background-color: #689453 }
+.points-6 { background-color: #7FA465 }
+.points-7 { background-color: #96B378 }
+.points-8 { background-color: #B0C18C }
+.points-9 { background-color: #CBD0A2 }
+.points-10 { background-color: #E7DEBA }
+.points-11 { background-color: #E7DEBA }
+
+.televote-table .point-color {
+    display: none;
+}
+.points-col {
+    height: 100%;
+}
+.australia {
+    position: absolute;
+    top: 0;
+    font-weight: bold;
+}
+.australia-color {
+    height: 3em;
+    width: 3em;
+    border: 1px solid;
+    display: inline-block;
+    cursor: pointer;
+}
+.attribution {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+.table-header {
+  height: 2em;
+}

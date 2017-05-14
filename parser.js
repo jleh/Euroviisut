@@ -6,7 +6,6 @@ fs.readFile('euroviisu.csv', 'utf-8', (err, data) => {
 
     for (var i = 1; i < rows.length; i++) {
         var row = rows[i].split(';');
-
         var from = row[0];
 
         if (!countries[from]) {

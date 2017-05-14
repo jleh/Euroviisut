@@ -1,24 +1,79 @@
-var $ = require('jquery');
-var L = require('leaflet');
-var _ = require('lodash');
-var Handlebars = require('handlebars');
+/******/ (function(modules) { // webpackBootstrap
+/******/ 	// The module cache
+/******/ 	var installedModules = {};
+/******/
+/******/ 	// The require function
+/******/ 	function __webpack_require__(moduleId) {
+/******/
+/******/ 		// Check if module is in cache
+/******/ 		if(installedModules[moduleId]) {
+/******/ 			return installedModules[moduleId].exports;
+/******/ 		}
+/******/ 		// Create a new module (and put it into the cache)
+/******/ 		var module = installedModules[moduleId] = {
+/******/ 			i: moduleId,
+/******/ 			l: false,
+/******/ 			exports: {}
+/******/ 		};
+/******/
+/******/ 		// Execute the module function
+/******/ 		modules[moduleId].call(module.exports, module, module.exports, __webpack_require__);
+/******/
+/******/ 		// Flag the module as loaded
+/******/ 		module.l = true;
+/******/
+/******/ 		// Return the exports of the module
+/******/ 		return module.exports;
+/******/ 	}
+/******/
+/******/
+/******/ 	// expose the modules object (__webpack_modules__)
+/******/ 	__webpack_require__.m = modules;
+/******/
+/******/ 	// expose the module cache
+/******/ 	__webpack_require__.c = installedModules;
+/******/
+/******/ 	// identity function for calling harmony imports with the correct context
+/******/ 	__webpack_require__.i = function(value) { return value; };
+/******/
+/******/ 	// define getter function for harmony exports
+/******/ 	__webpack_require__.d = function(exports, name, getter) {
+/******/ 		if(!__webpack_require__.o(exports, name)) {
+/******/ 			Object.defineProperty(exports, name, {
+/******/ 				configurable: false,
+/******/ 				enumerable: true,
+/******/ 				get: getter
+/******/ 			});
+/******/ 		}
+/******/ 	};
+/******/
+/******/ 	// getDefaultExport function for compatibility with non-harmony modules
+/******/ 	__webpack_require__.n = function(module) {
+/******/ 		var getter = module && module.__esModule ?
+/******/ 			function getDefault() { return module['default']; } :
+/******/ 			function getModuleExports() { return module; };
+/******/ 		__webpack_require__.d(getter, 'a', getter);
+/******/ 		return getter;
+/******/ 	};
+/******/
+/******/ 	// Object.prototype.hasOwnProperty.call
+/******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
+/******/
+/******/ 	// __webpack_public_path__
+/******/ 	__webpack_require__.p = "";
+/******/
+/******/ 	// Load entry module and return exports
+/******/ 	return __webpack_require__(__webpack_require__.s = 0);
+/******/ })
+/************************************************************************/
+/******/ ([
+/* 0 */
+/***/ (function(module, exports) {
 
-require('leaflet/dist/leaflet.css');
-require('bootstrap/dist/css/bootstrap.css');
-require('./css/app.css');
-
+var map = L.map('map').setView([51.505, 12], 3);
 var points = {};
-var colors = ['#013808','#0D4711','#1D561C','#2E6627','#407535','#538543',
-              '#689453','#7FA465','#96B378','#B0C18C','#CBD0A2','#E7DEBA'];
-var map;
+var colors = ['#013808','#0D4711','#1D561C','#2E6627','#407535','#538543','#689453','#7FA465','#96B378','#B0C18C','#CBD0A2','#E7DEBA'];
 var countryLayer;
-
-var participants = ['Israel', 'Poland', 'Belarus', 'Austria', 'Armenia',
-  'The Netherlands', 'Moldova', 'Hungary', 'Italy', 'Denmark', 'Portugal',
-  'Azerbaijan', 'Croatia', 'Australia', 'Greece', 'Spain', 'Norway',
-  'United Kingdom', 'Cyprus', 'Romania', 'Germany', 'Ukraine', 'Belgium',
-  'Sweden', 'Bulgaria', 'France'
-];
 
 var countryData = {
     'Armenia': 'am',
@@ -49,15 +104,6 @@ var countryData = {
     'Malta': 'mt'
 };
 
-map = L.map('map', {
-  zoomControl: false,
-  zoomSnap: 0.1,
-  zoomDelta: 0.3,
-  doubleClickZoom: false,
-  boxZoom: false
-}).setView([51.505, 12], 3);
-
-map.fitBounds([[71.5, 51.48], [21.95, -25.06]]);
 map.attributionControl.setPrefix("");
 
 $('.australia-color').click(showAusPoints);
@@ -163,3 +209,7 @@ function showPoints(name) {
         setAusColor(pointList);
     });
 }
+
+
+/***/ })
+/******/ ]);
