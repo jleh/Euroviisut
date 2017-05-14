@@ -65,7 +65,8 @@ map = L.map('map', {
   zoomSnap: 0.1,
   zoomDelta: 0.3,
   doubleClickZoom: false,
-  boxZoom: false
+  boxZoom: false,
+  dragging: false
 }).setView([51.505, 12], 3);
 
 map.fitBounds([[71.5, 51.48], [21.95, -25.06]]);
