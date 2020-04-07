@@ -5,7 +5,7 @@
   "main": "parser.js",
   "dependencies": {
     "bootstrap": "^3.3.7",
-    "handlebars": "^4.0.8",
+    "handlebars": "^4.7.6",
     "jquery": "^3.2.1",
     "leaflet": "^1.0.3",
     "lodash": "^4.17.4"
@@ -16,7 +16,7 @@
     "style-loader": "^0.17.0",
     "url-loader": "^0.5.8",
     "webpack": "^2.5.1",
-    "webpack-dev-server": "^3.1.11"
+    "webpack-dev-server": "^3.10.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
