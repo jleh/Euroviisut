@@ -6,7 +6,7 @@
   "dependencies": {
     "bootstrap": "^3.3.7",
     "handlebars": "^4.7.6",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "leaflet": "^1.0.3",
     "lodash": "^4.17.4"
   },
