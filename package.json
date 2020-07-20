@@ -8,7 +8,7 @@
     "handlebars": "^4.7.6",
     "jquery": "^3.5.0",
     "leaflet": "^1.0.3",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.19"
   },
   "devDependencies": {
     "css-loader": "^0.28.1",
